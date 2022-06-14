@@ -1,0 +1,9 @@
+STT,Lần đăng ký,Lý do,Số lượng ĐK,Số lượng hủy ĐK,Giá trị ĐK,Giá trị hủy ĐK,Số GCNĐKCK,Ngày cấp
+1,Cấp lần đầu,Đăng ký lần đầu,10.100.000,0,101.000.000.000,0,Số 02/2014/GCNETF-VSD,15/12/2014
+2,Điều chỉnh lần 1,,200.000,0,2.000.000.000,0,02/2014/GCNETF-VSD-01,27/03/2015
+3,Điều chỉnh lần 2,,0,-200.000,0,-2.000.000.000,02/2014/GCNETF-VSD-02,10/04/2015
+4,Điều chỉnh lần 3,,900.000,-900.000,9.000.000.000,-9.000.000.000,02/2014/GCNETF-VSD-03,20/11/2015
+5,Điều chỉnh lần 4,Giao dịch hoán đổi,0,-300.000,0,-3.000.000.000,số 02/2014/GCNETF-VSD-04,28/07/2016
+Tổng cộng:,Tổng cộng:,Tổng cộng:,11.200.000,-1.400.000,112.000.000.000,-14.000.000.000,,
+Tổng khối lượng CCQ đăng ký:,Tổng khối lượng CCQ đăng ký:,Tổng khối lượng CCQ đăng ký:,9.800.000,,,,,
+Tổng giá trị CCQ đăng ký:,Tổng giá trị CCQ đăng ký:,Tổng giá trị CCQ đăng ký:,98.000.000.000,,,,,
