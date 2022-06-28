@@ -16,11 +16,8 @@ def get_niemyet_infor(link):
     source_values = [i.text for i in soup.find_all('div', {'class':'col-md-8 col-sm-6 item-info item-info-main'})]
     return table, pd.DataFrame({'Keys':source_keys, 'Values':source_values})
 
-# link = 'https://www.vsd.vn/vi/s-detail/9751'
-# print(all_com)
-# print(get_niemyet_infor(link))
 all_com = pd.read_csv('isin.csv')
-for i in range(1990, len(all_com.index)):
+for i in range(0, len(all_com.index)):
     symbol = all_com['Mã chứng khoán'].iloc[i]
     link = all_com['link_isin'].iloc[i]
     print(i, symbol, link)
