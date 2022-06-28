@@ -24,3 +24,5 @@ for i in range(0, len(all_com.index)):
     table1, table2 = get_niemyet_infor(link)
     table1.to_csv(f'data_lake/niemyetbs/{symbol}.csv', index = False)
     table2.to_csv(f'data_lake/infor/{symbol}.csv', index = False)
+    table1.to_csv(f'/content/drive/MyDrive/Data Lake/Ingestion/Day 0/VSD/Volume/VolumeAdditionalEvents/{symbol}.csv', index = False)
+    table2.to_csv(f'/content/drive/MyDrive/Data Lake/Ingestion/Day 0/VSD/Volume/VolumeNow/{symbol}.csv', index = False)
