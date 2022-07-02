@@ -1,0 +1,700 @@
+STT,Mã chứng khoán,Mã ISIN,Tên chứng khoán,Sàn chuyển đi,Sàn chuyển đến,Ngày hiệu lực,Tiêu đề
+1,VXB,VN000000VXB0,Cổ phiếu CTCP Vật liệu Xây dựng Bến Tre,HNX,UpCOM,04/07/2022,"VXB: Thông báo về việc chuyển dữ liệu đăng ký, lưu ký cổ phiếu VXB từ thị trường HNX sang thị trường UPCOM"
+2,ACM,VN000000ACM5,Cổ phiếu Công ty cổ phần Tập đoàn Khoáng sản Á Cường,HNX,UpCOM,12/07/2022,"ACM: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu ACM từ thị trường HNX sang thị trường UPCOM"
+3,PXS,VN000000PXS6,Cổ phiếu CTCP kết cấu kim loại và Lắp máy dầu khí,HOSE,UpCOM,28/06/2022,"PXS: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu PXS từ thị trường HOSE sang thị trường UPCOM"
+4,LSG,VN000000LSG0,Cổ phiếu Công ty cổ phần Bất động sản Sài Gòn Vi na,Đại chúng chưa niêm yết,UpCOM,10/05/2022,"LSG: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu LSG từ thị trường Đại chúng chưa niêm yết sang thị trường UPCOM"
+5,PXI,VN000000PXI7,Cổ phiếu CTCP xây dựng công nghiệp và dân dụng dầu khí,HOSE,UpCOM,11/05/2022,"PXI: Thông báo về việc chuyển dữ liệu đăng ký, lưu ký cổ phiếu PXI từ thị trường HOSE sang thị trường UPCOM"
+6,FTM,VN000000FTM8,Cổ phiếu Công ty cổ phần Đầu tư và Phát triển Đức Quân,HOSE,UpCOM,18/05/2022,"FTM: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu FTM từ thị trường HOSE sang thị trường UPCOM"
+7,RIC,VN000000RIC7,Cổ phiếu Công ty cổ phần Quốc tế Hoàng Gia,HOSE,UpCOM,18/05/2022,"RIC: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu RIC từ thị trường HOSE sang thị trường UPCOM"
+8,DTH,VN000000DTH3,Cổ phiếu CTCP Dược – Vật tư Y tế Thanh Hóa,Đại chúng chưa niêm yết,UpCOM,13/04/2022,"DTH: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký chứng khoán DTH từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội (HNX)"
+9,ABR,VN000000ABR6,Cổ phiếu Công ty cổ phần Đầu tư Nhãn Hiệu Việt,UpCOM,HOSE,24/02/2022,"ABR: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu ABR từ thị trường UPCOM sang thị trường HOSE"
+10,CTR,VN000000CTR4,Cổ phiếu Tổng Công ty cổ phần Công trình Viettel,UpCOM,HOSE,17/02/2022,"CTR: Thông báo về việc chuyển dữ liệu đăng ký, lưu ký chứng khoán CTR từ thị trường đăng ký giao dịch tại HNX sang thị trường niêm yết tại HOSE"
+11,PGV,VN000000PGV5,Cổ phiếu Tổng Công ty Phát điện 3 - Công ty cổ phần,UpCOM,HOSE,26/01/2022,"PGV: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu PGV từ thị trường UPCOM sang thị trường HOSE"
+12,SPC,VN000000SPC0,Cổ phiếu CTCP Bảo vệ thực vật Sài Gòn,UpCOM,HNX,21/01/2022,"SPC: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu SPC từ thị trường UPCOM sang thị trường HNX"
+13,TOT,VN000000TOT5,Cổ phiếu Công ty cổ phần Vận tải Transimex,UpCOM,HNX,12/01/2022,"TOT: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu TOT từ thị trường UPCOM sang thị trường HNX"
+14,HHV,VN000000HHV0,Cổ phiếu Công ty cổ phần Đầu tư hạ tầng giao thông Đèo Cả,UpCOM,HOSE,11/01/2022,"HHV: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu HHV từ thị trường đăng ký giao dịch (Upcom) tại HNX sang thị trường niêm yết tại HOSE"
+15,EVF,VN000000EVF1,Cổ phiếu Công ty Tài chính Cổ phần Điện lực,UpCOM,HOSE,04/01/2022,"EVF: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu EVF từ thị trường đăng ký giao dịch (UPCOM) tại Sở Giao dịch Chứng khoán Hà Nội sang thị trường niêm yết tại Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh"
+16,VAT,VN000000VAT0,Cổ phiếu Công ty cổ phần VT Vạn Xuân,HNX,UpCOM,28/12/2021,"VAT: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu VAT từ thị trường niêm yết HNX sang thị trường UpCOM"
+17,VRE12007,VN0VRE120074,Trái phiếu BONDVCR042025,HOSE,HNX,30/12/2021,"VRE12007: Chuyển dữ liệu đăng ký, lưu ký trái phiếu VRE12007 từ thị trường niêm yết HOSE sang thị trường niêm yết HNX"
+18,VJC11912,VN0VJC119128,Trái phiếu Công ty cổ phần Hàng không Vietjet,HOSE,HNX,30/12/2021,"VJC11912: Chuyển dữ liệu đăng ký, lưu ký trái phiếu VJC11912 từ thị trường niêm yết HOSE sang thị trường niêm yết HNX như sau:"
+19,KBC12006,VN0KBC120069,Trái phiếu Tổng Công ty Phát triển Đô thị Kinh Bắc - CTCP,HOSE,HNX,30/12/2021,"KBC12006: Chuyển dữ liệu đăng ký, lưu ký trái phiếu KBC12006 từ thị trường niêm yết HOSE sang thị trường niêm yết HNX"
+20,NPM11805,VN0NPM118054,Trái phiếu NPM082023,HOSE,HNX,30/12/2021,"NPM11805: Chuyển dữ liệu đăng ký, lưu ký trái phiếu NPM11805 từ thị trường niêm yết HOSE sang thị trường niêm yết HNX"
+21,NPM11907,VN0NPM119078,Trái phiếu NPMPO2022_01,HOSE,HNX,30/12/2021,"NPM11907: Chuyển dữ liệu đăng ký, lưu ký trái phiếu NPM11907 từ thị trường niêm yết HOSE sang thị trường niêm yết HNX như sau:"
+22,NPM11909,VN0NPM119094,Trái phiếu NPM052022,HOSE,HNX,30/12/2021,"NPM11909: Chuyển dữ liệu đăng ký, lưu ký trái phiếu NPM11909 từ thị trường niêm yết HOSE sang thị trường niêm yết HNX"
+23,NPM11910,VN0NPM119102,Trái phiếu NPM062022,HOSE,HNX,30/12/2021,"NPM11910: Chuyển dữ liệu đăng ký, lưu ký trái phiếu NPM11910 từ thị trường niêm yết HOSE sang thị trường niêm yết HNX"
+24,NPM11911,VN0NPM119110,Trái phiếu NPM052024,HOSE,HNX,30/12/2021,"NPM11911: Chuyển dữ liệu đăng ký, lưu ký trái phiếu NPM11911 từ thị trường niêm yết HOSE sang thị trường niêm yết HNX"
+25,MSN12002,VN0MSN120024,Trái phiếu BondMSN012023,HOSE,HNX,30/12/2021,"MSN12002: Chuyển dữ liệu đăng ký, lưu ký trái phiếu MSN12002 từ thị trường niêm yết HOSE sang thị trường niêm yết HNX"
+26,MSN12003,VN0MSN120032,Trái phiếu BondMSN032023,HOSE,HNX,30/12/2021,"MSN12003: Chuyển dữ liệu đăng ký, lưu ký trái phiếu MSN12003 từ thị trường niêm yết HOSE sang thị trường niêm yết HNX"
+27,MSN12005,VN0MSN120057,Trái phiếu Bond MSN042023,HOSE,HNX,30/12/2021,"MSN12005: Chuyển dữ liệu đăng ký, lưu ký trái phiếu MSN12005 từ thị trường niêm yết HOSE sang thị trường niêm yết HNX"
+28,MSN11906,VN0MSN119067,Trái phiếu MSNPO2022_01,HOSE,HNX,30/12/2021,"MSN11906: Chuyển dữ liệu đăng ký, lưu ký trái phiếu MSN11906 từ thị trường niêm yết HOSE sang thị trường niêm yết HNX"
+29,MSN12001,VN0MSN120016,Trái phiếu BondMSN022023,HOSE,HNX,30/12/2021,"MSN12001: Chuyển dữ liệu đăng ký, lưu ký trái phiếu MSN12001 từ thị trường niêm yết HOSE sang thị trường niêm yết HNX"
+30,NXT,VN000000NXT9,Cổ phiếu Công ty cổ phần Sản xuất và Cung ứng vật liệu xây dựng Kon Tum,HNX,UpCOM,07/12/2021,"NXT: Thông báo về việc chuyển dữ liệu đăng ký, lưu ký cổ phiếu NXT từ thị trường niêm yết tại Sở Giao dịch Chứng khoán Hà Nội (HNX) sang thị trường đăng ký giao dịch (UPCOM)"
+31,CCR,VN000000CCR0,Cổ phiếu Công ty cổ phần Cảng Cam Ranh,UpCOM,HNX,12/11/2021,"CCR: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu CCR từ thị trường đăng ký giao dịch UPCOM sang thị trường niêm yết HNX"
+32,DTC,VN000000DTC4,Cổ phiếu CTCP Viglacera Đông Triều,UpCOM,HNX,02/11/2021,"DTC: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu DTC từ thị trường đăng ký giao dịch (Upcom) tại HNX sang thị trường niêm yết tại HNX"
+33,ORS,VN000000ORS1,Cổ phiếu Công ty Cổ phần Chứng khoán Tiên Phong,UpCOM,HOSE,01/11/2021,"ORS: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu ORS từ thị trường UPCOM sang thị trường HOSE như sau:"
+34,IPA,VN000000IPA5,Cổ phiếu Công ty cổ phần Tập đoàn Đầu tư I.P.A,UpCOM,HNX,27/10/2021,"IPA: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu IPA từ thị trường đăng ký giao dịch UPCOM sang thị trường niêm yết HNX như sau:"
+35,NHT,VN000000NHT2,Cổ phiếu Công ty cổ phần Sản xuất và Thương mại Nam Hoa,UpCOM,HOSE,02/11/2021,"NHT: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu NHT từ thị trường UPCOM sang thị trường HOSE"
+36,SCG,VN000000SCG9,Cổ phiếu Công ty cổ phần Xây dựng SCG,UpCOM,HNX,22/10/2021,"SCG: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu SCG từ thị trường đăng ký giao dịch UPCOM sang thị trường niêm yết HNX"
+37,SHB,VN000000SHB9,Cổ phiếu Ngân hàng TMCP Sài Gòn - Hà Nội,HNX,HOSE,08/10/2021,"SHB: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu SHB từ thị trường niêm yết HNX sang thị trường niêm yết HOSE"
+38,ASG,VN000000ASG3,Cổ phiếu Công ty cổ phần Tập đoàn ASG,HNX,HOSE,24/09/2021,"ASG: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu ASG từ thị trường niêm yết HNX sang thị trường niêm yết HOSE"
+39,TS4,VN000000TS43,Cổ phiếu Công ty Cổ phần thủy sản số 04,HOSE,UpCOM,14/09/2021,"TS4: Thông báo về việc chuyển dữ liệu đăng ký, lưu ký cổ phiếu TS4 từ thị trường HOSE sang thị trường UPCOM"
+40,SSC,VN000000SSC4,Cổ phiếu Công ty Cổ phần Giống cây trồng Miền Nam,HNX,HOSE,01/09/2021,"SSC: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu SSC từ thị trường niêm yết HNX sang thị trường niêm yết HOSE"
+41,VFG,VN000000VFG6,Cổ phiếu Công ty Cổ phần Khử Trùng Việt Nam,HNX,HOSE,01/09/2021,"VFG: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu VFG từ thị trường niêm yết HNX sang thị trường niêm yết HOSE"
+42,CAV,VN000000CAV6,Cổ phiếu Công ty cổ phần Dây cáp điện Việt Nam,HNX,HOSE,01/09/2021,"CAV: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu CAV từ thị trường niêm yết HNX sang thị trường niêm yết HOSE như sau:"
+43,DXS,VN000000DXS2,Cổ phiếu Công ty cổ phần Dịch vụ Bất động sản Đất Xanh,HNX,HOSE,01/09/2021,"DXS: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu DXS từ thị trường niêm yết HNX sang thị trường niêm yết HOSE"
+44,KHG,VN000000KHG5,Cổ phiếu Công ty cổ phần Bất động sản Khải Hoàn Land,HNX,HOSE,01/09/2021,"KHG: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu KHG từ thị trường niêm yết HNX sang thị trường niêm yết HOSE"
+45,THI,VN000000THI2,Cổ phiếu Công ty cổ phần Thiết bị điện,HNX,HOSE,01/09/2021,"THI: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu THI từ thị trường niêm yết HNX sang thị trường niêm yết HOSE"
+46,PAN,VN000000PAN5,Cổ phiếu Công ty cổ phần Tập đoàn PAN,HNX,HOSE,01/09/2021,"PAN: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu PAN từ thị trường niêm yết HNX sang thị trường niêm yết HOSE"
+47,LAF,VN000000LAF0,Cổ phiếu CTCP Chế biến hàng XK Long An,HNX,HOSE,01/09/2021,"LAF: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu LAF từ thị trường niêm yết HNX sang thị trường niêm yết HOSE"
+48,BBC,VN000000BBC6,Cổ phiếu Công ty cổ phần Bibica,HNX,HOSE,01/09/2021,"BBC: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu BBC từ thị trường niêm yết HNX sang thị trường niêm yết HOSE"
+49,ABT,VN000000ABT2,Cổ phiếu CTCP Xuất nhập khẩu Thuỷ sản Bến Tre,HNX,HOSE,01/09/2021,"ABT: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu ABT từ thị trường niêm yết HNX sang thị trường niêm yết HOSE"
+50,BSI,VN000000BSI7,Cổ phiếu Công ty cổ phần Chứng khoán Ngân hàng Đâu tư và Phát triển Việt Nam,HNX,HOSE,01/09/2021,"BSI: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu BSI từ thị trường niêm yết HNX sang thị trường niêm yết HOSE"
+51,HAP,VN000000HAP7,Cổ phiếu Công ty Cổ phần Tập đoàn HAPACO,HNX,HOSE,01/09/2021,"HAP: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu HAP từ thị trường niêm yết HNX sang thị trường niêm yết HOSE"
+52,VND,VN000000VND7,Cổ phiếu CTCP Chứng khoán VnDirect,HNX,HOSE,01/09/2021,"VND: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu VND từ thị trường niêm yết HNX sang thị trường niêm yết HOSE"
+53,QBS,VN000000QBS0,Cổ phiếu Công ty cổ phần Xuất nhập khẩu Quảng Bình,HNX,HOSE,01/09/2021,"QBS: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu QBS từ thị trường niêm yết HNX sang thị trường niêm yết HOSE"
+54,TVB,VN000000TVB8,Cổ phiếu Công ty cổ phần Chứng khoán Trí Việt,HNX,HOSE,01/09/2021,"TVB: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu TVB từ thị trường niêm yết HNX sang thị trường niêm yết HOSE"
+55,NSC,VN000000NSC5,Cổ phiếu Công ty cổ phần Tập đoàn Giống cây trồng Việt Nam,HNX,HOSE,01/09/2021,"NSC: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu NSC từ thị trường niêm yết HNX sang thị trường niêm yết HOSE"
+56,XMP,VN000000XMP9,Cổ phiếu Công ty cổ phần Thủy điện Xuân Minh,HNX,UpCOM,13/08/2021,"XMP: Chuyển dữ liệu đăng ký, lưu ký chứng khoán XMP từ thị trường niêm yết HNX sang thị trường đăng ký giao dịch Upcom"
+57,CII42013,VN0CII420136,Trái phiếu CTCP Đầu tư Hạ tầng Kỹ thuật TP.HCM,HOSE,Đại chúng chưa niêm yết,09/08/2021,"CII42013: Chuyển dữ liệu đăng ký, lưu ký trái phiếu CII42013 từ thị trường niêm yết HOSE sang thị trường Đại chúng chưa niêm yết"
+58,KHG,VN000000KHG5,Cổ phiếu Công ty cổ phần Bất động sản Khải Hoàn Land,HOSE,HNX,14/07/2021,"KHG: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu KHG từ thị trường niêm yết HOSE sang thị trường niêm yết HNX"
+59,PAP,VN000000PAP0,Cổ phiếu Công ty cổ phần Dầu khí Đầu tư khai thác cảng Phước An,Đại chúng chưa niêm yết,UpCOM,12/07/2021,"PAP: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu PAP từ thị trường Đại chúng chưa niêm yết sang thị trường UPCOM"
+60,DXS,VN000000DXS2,Cổ phiếu Công ty cổ phần Dịch vụ Bất động sản Đất Xanh,HOSE,HNX,09/07/2021,"DXS: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu DXS từ thị trường niêm yết HOSE sang thị trường niêm yết HNX"
+61,HKB,VN000000HKB6,Cổ phiếu Công ty cổ phần Nông nghiệp và Thực phẩm Hà Nội – Kinh Bắc,HNX,UpCOM,22/07/2021,"HKB: Thông báo chuyển dữ liệu đăng ký, lưu ký cổ phiếu HKB từ thị trường niêm yết tại Sở Giao dịch Chứng khoán Hà Nội (HNX) sang thị trường đăng ký giao dịch tại Sở Giao dịch Chứng khoán Hà Nội (UPCOM)"
+62,HAP,VN000000HAP7,Cổ phiếu Công ty Cổ phần Tập đoàn HAPACO,HOSE,HNX,16/06/2021,"HAP: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu HAP từ thị trường niêm yết HOSE sang thị trường niêm yết HNX"
+63,NHP,VN000000NHP0,Cổ phiếu Công ty cổ phần Sản xuất Xuất nhập khẩu NHP,HNX,UpCOM,28/06/2021,"NHP: Thông báo thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu NHP từ thị trường HNX sang thị trường UPCOM"
+64,DPS,VN000000DPS8,Cổ phiếu Công ty cổ phần Đầu tư Phát triển Sóc Sơn,HNX,UpCOM,28/06/2021,"DPS: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu DPS từ thị trường HNX sang thị trường UPCOM"
+65,VMI,VN000000VMI8,Cổ phiếu Công ty cổ phần Khoáng sản và Đầu tư VISACO,HNX,UpCOM,28/06/2021,"VMI: Thông báo thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu VMI từ thị trường HNX sang thị trường UPCOM"
+66,SJC,VN000000SJC3,Cổ phiếu CTCP Sông Đà 1.01,HNX,UpCOM,28/06/2021,"SJC: Thông báo thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu SJC từ thị trường HNX sang thị trường UPCOM"
+67,TV6,VN000000TV63,Cổ phiếu Công ty cổ phần Thương mại Đầu tư xây lắp điện Thịnh Vượng,HNX,UpCOM,20/05/2021,"TV6: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu TV6 từ thị trường niêm yết HNX sang thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội (HNX)"
+68,THI,VN000000THI2,Cổ phiếu Công ty cổ phần Thiết bị điện,HOSE,HNX,24/05/2021,"THI: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu THI từ thị trường niêm yết HOSE sang thị trường niêm yết HNX"
+69,CAV,VN000000CAV6,Cổ phiếu Công ty cổ phần Dây cáp điện Việt Nam,HOSE,HNX,19/05/2021,"CAV: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu CAV từ thị trường niêm yết HOSE sang thị trường niêm yết HNX"
+70,S74,VN000000S743,Cổ phiếu Công ty cổ phần Sông Đà 7.04,HNX,UpCOM,07/06/2021,"S74: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu S74 từ thị trường HNX sang thị trường UPCOM"
+71,MPT,VN000000MPT7,Cổ phiếu Công ty cổ phần Tập đoàn Trường Tiền,HNX,UpCOM,27/05/2021,"MPT: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu MPT từ thị trường HNX sang thị trường UPCOM"
+72,PXT,VN000000PXT4,Cổ phiếu CTCP Xây lắp Đường ống Bể chứa Dầu khí,HOSE,UpCOM,01/06/2021,"PXT: Thông báo về việc chuyển dữ liệu đăng ký, lưu ký cổ phiếu PXT từ thị trường HOSE sang thị trường UPCOM"
+73,ATG,VN000000ATG1,Cổ phiếu Công ty cổ phần An Trường An,HOSE,UpCOM,04/05/2021,"ATG: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu ATG từ thị trường niêm yết HOSE sang thị trường UpCOM"
+74,QBS,VN000000QBS0,Cổ phiếu Công ty cổ phần Xuất nhập khẩu Quảng Bình,HOSE,HNX,14/05/2021,"QBS: Chuyển dữ liệu đăng ký, lưu ký chứng khoán QBS từ thị trường niêm yết HOSE sang thị trường niêm yết HNX"
+75,NGC,VN000000NGC0,Cổ phiếu CTCP Chế Biến Thủy sản xuất khẩu Ngô Quyền,HNX,UpCOM,25/05/2021,"NGC: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu từ thị trường HNX sang thị trường UPCOM"
+76,ASG,VN000000ASG3,Cổ phiếu Công ty cổ phần Tập đoàn ASG,HOSE,HNX,06/05/2021,"ASG: Thông báo thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu ASG từ thị trường niêm yết HOSE sang thị trường niêm yết HNX như sau:"
+77,BSI,VN000000BSI7,Cổ phiếu Công ty cổ phần Chứng khoán Ngân hàng Đâu tư và Phát triển Việt Nam,HOSE,HNX,05/05/2021,"BSI: Thông báo thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu từ thị trường niêm yết HOSE sang thị trường niêm yết HNX"
+78,CLG,VN000000CLG4,Cổ phiếu Công ty cổ phần Đầu tư và Phát triển Nhà Đất Cotec,HOSE,UpCOM,23/04/2021,"CLG: Thông báo chuyển dữ liệu đăng ký, lưu ký cổ phiếu từ thị trường HOSE sang thị trường UPCOM"
+79,LO5,VN000000LO52,Cổ phiếu Công ty cổ phần Lilama 5,HNX,UpCOM,07/05/2021,"LO5: Thông báo thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu LO5 từ thị trường HNX sang thị trường UPCOM"
+80,PAN,VN000000PAN5,Cổ phiếu Công ty cổ phần Tập đoàn PAN,HOSE,HNX,15/04/2021,"PAN: Thông báo về việc chuyển dữ liệu đăng ký, lưu ký cổ phiếu PAN từ thị trường niêm yết HOSE sang thị trường niêm yết HNX"
+81,TVB,VN000000TVB8,Cổ phiếu Công ty cổ phần Chứng khoán Trí Việt,HOSE,HNX,15/04/2021,"TVB: Thông báo về việc chuyển dữ liệu đăng ký, lưu ký cổ phiếu TVB từ thị trường niêm yết HOSE sang thị trường niêm yết HNX"
+82,LAF,VN000000LAF0,Cổ phiếu CTCP Chế biến hàng XK Long An,HOSE,HNX,13/04/2021,"LAF: Thông báo về việc chuyển dữ liệu đăng ký, lưu ký cổ phiếu LAF từ thị trường niêm yết HOSE sang thị trường niêm yết HNX"
+83,VND,VN000000VND7,Cổ phiếu CTCP Chứng khoán VnDirect,HOSE,HNX,02/04/2021,"VND: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu VND từ thị trường niêm yết HOSE sang thị trường niêm yết HNX"
+84,HLY,VN000000HLY6,Cổ phiếu Công ty Cổ phần Viglacera Hạ Long I,HNX,HNX,22/04/2021,"HLY: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu HLY từ thị trường HNX sang thị trường UPCOM"
+85,HLY,VN000000HLY6,Cổ phiếu Công ty cổ phần Gốm xây dựng Yên Hưng,HNX,UpCOM,22/04/2021,"HLY: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu HLY từ thị trường HNX sang thị trường UPCOM"
+86,NSC,VN000000NSC5,Cổ phiếu Công ty cổ phần Tập đoàn Giống cây trồng Việt Nam,HOSE,HNX,01/04/2021,"NSC: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu NSC từ thị trường niêm yết HOSE sang thị trường niêm yết HNX"
+87,VFG,VN000000VFG6,Cổ phiếu Công ty Cổ phần Khử Trùng Việt Nam,HOSE,HNX,31/03/2021,"VFG: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu VFG từ thị trường niêm yết HOSE sang thị trường niêm yết HNX"
+88,ABT,VN000000ABT2,Cổ phiếu CTCP Xuất nhập khẩu Thuỷ sản Bến Tre,HOSE,HNX,31/03/2021,"ABT: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu ABT từ thị trường niêm yết HOSE sang thị trường niêm yết HNX"
+89,BBC,VN000000BBC6,Cổ phiếu Công ty cổ phần Bibica,HOSE,HNX,26/03/2021,"BBC: Thông báo về việc chuyển dữ liệu đăng ký, lưu ký chứng khoán BBC từ thị trường niêm yết HOSE sang thị trường niêm yết HNX"
+90,SSC,VN000000SSC4,Cổ phiếu Công ty Cổ phần Giống cây trồng Miền Nam,HOSE,HNX,26/03/2021,"SSC: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu SSC từ thị trường niêm yết HOSE sang thị trường niêm yết HNX"
+91,VTS,VN000000VTS2,Cổ phiếu Công ty cổ phần Viglacera Từ Sơn,HNX,UpCOM,13/04/2021,"VTS: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu VTS từ thị trường HNX sang thị trường UPCOM"
+92,VCA,VN000000VCA6,Cổ phiếu Công ty Cổ phần Thép VICASA - VNSTEEL,UpCOM,HOSE,03/03/2021,"VCA: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu VCA từ thị trường UPCOM sang thị trường HOSE"
+93,BAB,VN000000BAB0,Cổ phiếu Ngân hàng Thương mại cổ phần Bắc Á,UpCOM,HNX,01/03/2021,"BAB: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu BAB từ thị trường đăng ký giao dịch tại HNX sang thị trường niêm yết tại HNX"
+94,HHP,VN000000HHP2,Cổ phiếu Công ty cổ phần Giấy Hoàng Hà Hải Phòng,HNX,HOSE,23/02/2021,"HHP: Thông báo về việc chuyển dữ liệu đăng ký, lưu ký chứng khoán HHP từ thị trường niêm yết HNX sang thị trường niêm yết HOSE"
+95,ADG,VN000000ADG5,Cổ phiếu Công ty cổ phần Clever Group,UpCOM,HOSE,03/02/2021,"ADG: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu ADG từ thị trường đăng ký giao dịch tại HNX sang thị trường niêm yết tại HOSE"
+96,NHA,VN000000NHA2,Cổ phiếu Tổng công ty Đầu tư Phát triển nhà và Đô thị Nam Hà Nội,HNX,HOSE,15/01/2021,"NHA: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu NHA từ thị trường niêm yết HNX sang thị trường niêm yết HOSE"
+97,MIG,VN000000MIG9,Cổ phiếu Tổng Công ty Cổ phần Bảo hiểm Quân Đội,UpCOM,HOSE,15/01/2021,"MIG: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu MIG từ thị trường đăng ký giao dịch UPCOM sang thị trường niêm yết HOSE"
+98,VIX,VN000000VIX5,Cổ phiếu Công ty cổ phần Chứng khoán VIX,HNX,HOSE,31/12/2020,"VIX: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu VIX từ thị trường niêm yết HNX sang thị trường niêm yết HOSE"
+99,VCG,VN000000VCG3,Cổ phiếu Tổng CTCP Xuất nhập khẩu và Xây dựng Việt Nam,HNX,HOSE,24/12/2020,"VCG: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu VCG từ thị trường niêm yết HNX sang thị trường niêm yết HOSE"
+100,DTK,VN000000 DTK7,Cổ phiếu Tổng công ty Điện lực TKV - CTCP,UpCOM,HNX,21/12/2020,"DTK: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu DTK từ thị trường đăng ký giao dịch tại UPCOM sang thị trường niêm yết tại HNX"
+101,ACB,VN000000ACB8,Cổ phiếu Ngân hàng TMCP Á Châu,HNX,HOSE,04/12/2020,"ACB: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu ACB từ thị trường HNX sang thị trường HOSE"
+102,HD6,VN000000HD69,Cổ phiếu Công ty cổ phần Đầu tư và Phát triển Nhà số 6 Hà Nội,Đại chúng chưa niêm yết,UpCOM,20/11/2020,"HD6: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký chứng khoán HD6 từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội (HNX)"
+103,VIB,VN000000VIB1,Cổ phiếu Ngân hàng Thương mại cổ phần Quốc tế Việt Nam,UpCOM,HOSE,09/11/2020,"VIB: Thông báo về việc chuyển dữ liệu đăng ký, lưu ký chứng khoán VIB từ thị trường đăng ký giao dịch tại HNX sang thị trường niêm yết tại HOSE"
+104,VE9,VN000000VE94,Cổ phiếu CTCP đầu tư và xây dựng VNECO 9,HNX,UpCOM,11/11/2020,"VE9: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu VE9 từ thị trường HNX sang thị trường UPCOM"
+105,LPB,VN000000LPB7,Cổ phiếu Ngân hàng Thương mại cổ phần Bưu điện Liên Việt,UpCOM,HOSE,28/10/2020,"LPB: Thông báo về việc chuyển dữ liệu đăng ký, lưu ký chứng khoán LPB từ thị trường đăng ký giao dịch tại HNX sang thị trường niêm yết tại HOSE"
+106,MVB,VN000000MVB3,Cổ phiếu Tổng Công ty Công nghiệp mỏ Việt Bắc TKV - CTCP,UpCOM,HNX,21/10/2020,"MVB: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu MVB từ thị trường đăng ký giao dịch tại HNX sang thị trường niêm yết tại HNX"
+107,DC4,VN000000DC49,Cổ phiếu Công ty Cổ phần Xây dựng DIC Holdings,HNX,HOSE,14/10/2020,"DC4: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu DC4 từ thị trường HNX sang thị trường HOSE"
+108,SGB,VN000000SGB1,Cổ phiếu Ngân hàng Thương mại cổ phần Sài Gòn Công thương,Đại chúng chưa niêm yết,UpCOM,07/10/2020,"SGB: Thông báo về thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu SGB từ thị trường DCCNY sang thị trường UPCOM"
+109,TSP119001,VNTSP1190010,Trái phiếu Công ty cổ phần Điện Mặt trời Trung Nam,HNX,Đại chúng chưa niêm yết,06/10/2020,"TSP119001: Thông báo về thực hiện chuyển dữ liệu đăng ký, lưu ký trái phiếu TSP119001 từ thị trường HNX sang thị trường ĐCCNY"
+110,QNC,VN000000QNC9,Cổ phiếu Công ty Cổ phần Xi măng và Xây dựng Quảng Ninh,HNX,UpCOM,,"QNC: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu QNC từ thị trường HNX sang thị trường UPCOM"
+111,PAS,VN000000PAS4,Cổ phiếu Công ty cổ phần Quốc tế Phương Anh,HOSE,UpCOM,17/09/2020,"PAS: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu PAS từ thị trường niêm yết HOSE sang thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội (HNX)"
+112,DBT,VN000000DBT6,Cổ phiếu CTCP Dược phẩm Bến Tre,HNX,HOSE,22/10/2020,"DBT: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu DBT từ thị trường HNX sang thị trường HOSE"
+113,TDP,VN000000TDP6,Cổ phiếu Công ty cổ phần Thuận Đức,UpCOM,HOSE,31/08/2020,"TDP: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu TDP từ thị trường giao dịch UPCOM sang thị trường niêm yết HOSE"
+114,BCM,VN000000BCM3,Cổ phiếu Tổng Công ty Đầu tư và Phát triển Công nghiệp – CTCP,UpCOM,HOSE,24/08/2020,"BCM: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu BCM từ thị trường UPCOM sang thị trường HOSE"
+115,WTN,VN000000WTN1,Cổ phiếu Công ty cổ phần Cấp thoát nước Tây Ninh,UpCOM,Đại chúng chưa niêm yết,08/09/2020,"WTN: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu WTN từ sàn UPCOM sang sàn ĐCCNY"
+116,MSC,VN000000MSC7,Cổ phiếu Công ty cổ phần Dịch vụ Phú Nhuận,HNX,Đại chúng chưa niêm yết,12/08/2020,"MSC: Thông báo về việc chuyển dữ liệu đăng ký, lưu ký cổ phiếu MSC từ thị trường HNX sang sàn ĐCCNY"
+117,HVG,VN000000HVG2,Cổ phiếu Công ty cổ phần Hùng Vương,HOSE,UpCOM,05/08/2020,"HVG: Thông báo về việc chuyển dữ liệu đăng ký, lưu ký cổ phiếu HVG từ thị trường HOSE sang thị trường UPCOM"
+118,DGC,VN000000DGC1,Cổ phiếu Công ty cổ phần Tập đoàn Hóa chất Đức Giang,HNX,HOSE,22/07/2020,"DGC: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu DGC từ thị trường niêm yết HNX sang thị trường niêm yết HOSE"
+119,DIC,VN000000DIC7,Cổ phiếu Công ty Cổ phần Đầu tư và Thương mại DIC,HOSE,UpCOM,12/08/2020,"DIC: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu DIC từ thị trường HOSE sang thị trường UPCOM"
+120,HTT,VN000000HTT9,Cổ phiếu Công ty cổ phần Thương mại Hà Tây,HOSE,UpCOM,19/06/2020,"HTT: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu HTT từ thị trường niêm yết HOSE sang thị trường UPCOM"
+121,FDT,VN000000FDT7,Cổ phiếu Công ty Cổ phần Fiditour,HNX,UpCOM,,"FDT: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu FDT từ thị trường HNX sang thị trường UPCOM"
+122,LMH,VN000000LMH1,Cổ phiếu Công ty cổ phần Landmark Holding,HOSE,UpCOM,,"LMH: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu LMH từ thị trường HOSE sang thị trường UPCOM"
+123,HNM,VN000000HNM7,Cổ phiếu Công ty Cổ phần Sữa Hà Nội,HNX,UpCOM,16/06/2020,"HNM: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu HNM từ thị trường HNX sang thị trường UPCOM"
+124,KSK,VN000000KSK4,Cổ phiếu Công ty cổ phần Khoáng sản luyện kim màu,HNX,UpCOM,01/06/2020,"KSK: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu KSK từ thị trường HNX sang thị trường UPCOM"
+125,PVX,VN000000PVX0,Cổ phiếu Tổng Công ty Cổ phần Xây lắp Dầu khí Việt Nam,HNX,UpCOM,11/06/2020,"PVX: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu PVX từ thị trường niêm yết HNX sang thị trường UPCOM"
+126,DNY,VN000000DNY1,Cổ phiếu Công ty cổ phần Thép DANA - Ý,HNX,UpCOM,09/06/2020,"DNY: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu DNY từ thị trường HNX sang thị trường UPCOM"
+127,PVE,VN000000PVE0,Cổ phiếu Tổng Công ty Tư vấn Thiết kế Dầu khí – Công ty cổ phần,HNX,UpCOM,01/06/2020,"PVE: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu PVE từ thị trường HNX sang thị trường UPCOM"
+128,MEC,VN000000MEC7,Cổ phiếu Công ty cổ phần Cơ khí - Lắp máy Sông Đà,HNX,UpCOM,28/05/2020,"MEC: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu MEC từ thị trường niêm yết tại Sở Giao dịch Chứng khoán Hà Nội (HNX) sang thị trường đăng ký giao dịch tại Sở Giao dịch Chứng khoán Hà Nội (UPCOM)"
+129,DID,VN000000DID5,Cổ phiếu CTCP DIC - Đồng Tiến,HNX,UpCOM,,"DID: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu DID từ thị trường HNX sang thị trường UPCOM"
+130,SPP,VN000000SPP2,Cổ phiếu Công ty Cổ phần Bao bì nhựa Sài Gòn,HNX,UpCOM,26/05/2020,"SPP: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu SPP từ thị trường HNX sang thị trường UPCOM"
+131,SCL,VN000000SCL9,Cổ phiếu Công ty cổ phần Sông Đà Cao Cường,HNX,UpCOM,12/05/2020,"SCL: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký từ thị trường HNX sang thị trường UPCOM"
+132,CT6,VN000000CT66,Cổ phiếu Công ty Cổ phần Công trình 6,HNX,UpCOM,11/05/2020,"CT6: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu CT6 từ thị trường niêm yết tại Sở Giao dịch Chứng khoán Hà Nội (HNX) sang thị trường đăng ký giao dịch tại Sở Giao dịch Chứng khoán Hà Nội (UPCOM)"
+133,VCR,VN000000VCR0,Cổ phiếu Công ty cổ phần Đầu tư và Phát triển Du lịch Vinaconex,HNX,UpCOM,07/05/2020,"VCR: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu VCR từ thị trường niêm yết tại HNX sang thị trường đăng ký giao dịch tại UPCOM"
+134,MED,VN000000MED5,Cổ phiếu Công ty cổ phần Dược Trung ương Mediplantex,Đại chúng chưa niêm yết,HNX,16/03/2020,"MED: Chuyển dữ liệu đăng ký, lưu ký chứng khoán MED từ thị trường Đại chúng chưa niêm yết sang niêm yết tại Sở Giao dịch Chứng khoán Hà Nội (HNX)"
+135,GVR,VN000000GVR1,Cổ phiếu Tập đoàn Công nghiệp Cao su Việt Nam – Công ty cổ phần,UpCOM,HOSE,12/03/2020,"GVR: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu GVR từ thị trường UPCOM sang thị trường HOSE"
+136,CKG,VN000000CKG6,Cổ phiếu Công ty cổ phần Tập đoàn Tư vấn Đầu tư Xây dựng Kiên Giang,Đại chúng chưa niêm yết,HOSE,28/02/2020,"CKG: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu CKG từ thị trường ĐCCNY sang thị trường HOSE"
+137,HVA,VN000000HVA5,Cổ phiếu Công ty cổ phần Đầu tư HVA,HNX,UpCOM,11/03/2020,"HVA: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu HVA từ thị trường HNX sang thị trường UPCOM"
+138,AGF,VN000000AGF0,cổ phiếu CTCP Xuất nhập khẩu Thủy sản An Giang,HOSE,UpCOM,19/02/2020,"AGF: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu AGF từ thị trường HOSE sang thị trường UPCOM"
+139,VIF,VN000000VIF2,Cổ phiếu Tổng công ty Lâm nghiệp Việt Nam - Công ty cổ phần,UpCOM,HNX,,"VIF: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu VIF từ thị trường đăng ký giao dịch tại HNX sang thị trường niêm yết tại HNX"
+140,KLM,VN000000KLM5,Cổ phiếu Công ty cổ phần Kim loại màu Nghệ Tĩnh,Đại chúng chưa niêm yết,UpCOM,27/12/2019,"KLM: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu KLM từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội (HNX)"
+141,VPK,VN000000VPK7,Cổ phiếu Công ty Cổ phần Bao bì Dầu thực vật,HOSE,UpCOM,15/01/2020,"VPK: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu VPK từ thị trường HOSE sang thị trường UPCOM"
+142,HCB,VN000000HCB3,Cổ phiếu CTCP Dệt may 29/3,Đại chúng chưa niêm yết,UpCOM,16/12/2019,"HCB: Chuyển dữ liệu đăng ký, lưu ký chứng khoán HCB từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội (HNX)"
+143,LGM,VN000000LGM3,Cổ phiếu Công ty cổ phần Giầy da và May mặc Xuất khẩu (LEGAMEX),Đại chúng chưa niêm yết,UpCOM,13/12/2019,"LGM: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu LGM từ thị trường DCCNY sang thị trường UPCOM"
+144,NHH,VN000000NHH7,Cổ phiếu Công ty cổ phần Nhựa Hà Nội,UpCOM,HOSE,09/12/2019,"NHH: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu NHH từ thị trường đăng ký giao dịch Upcom tại HNX sang thị trường niêm yết tại HOSE"
+145,IDC,VN000000IDC7,Cổ phiếu Tổng công ty IDICO - CTCP,UpCOM,HNX,05/12/2019,"IDC: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu IDC từ thị trường UPCOM sang thị trường HNX"
+146,SGO,VN000000SGO4,Cổ phiếu Công ty cổ phần Dầu thực vật Sài Gòn,HNX,UpCOM,24/12/2019,"SGO: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu SGO từ thị trường HNX sang thị trường UPCOM"
+147,PBC,VN000000PBC6,Cổ phiếu Công ty cổ phần Dược phẩm Trung ương I-Pharbaco,Đại chúng chưa niêm yết,UpCOM,,"PBC: Chuyển dữ liệu đăng ký, lưu ký chứng khoán PBC từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội (HNX)"
+148,CTA,VN000000CTA0,Cổ phiếu Công ty Cổ phần Vinavico,HNX,UpCOM,,"CTA: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu CTA từ thị trường niêm yết tại Sở Giao dịch Chứng khoán Hà Nội (HNX) sang thị trường đăng ký giao dịch tại Sở Giao dịch Chứng khoán Hà Nội(UPCOM)"
+149,HVB,VN000000HVB3,Cổ phiếu Công ty cổ phần bảo hiểm Hùng Vương,UpCOM,Đại chúng chưa niêm yết,01/11/2019,"HVB: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu từ thị trường UPCOM sang thị trường ĐCCNY"
+150,NDF,VN000000NDF0,Cổ phiếu Công ty cổ phần Chế biến thực phẩm nông sản xuất khẩu Nam Định,HNX,UpCOM,13/11/2019,"NDF: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu NDF từ thị trường HNX sang thị trường UPCOM"
+151,DFS,VN000000DFS9,Cổ phiếu Công ty cổ phần Chế biến Xuất nhập khẩu Nông sản Thực phẩm Đồng Nai,Đại chúng chưa niêm yết,UpCOM,16/10/2019,"DFS: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu DFS từ thị trường Đại chúng chưa niêm yết sang thị trường UPCOM"
+152,PTV,VN000000PTV8,Cổ phiếu Công ty cổ phần Thương mại Dầu khí,Đại chúng chưa niêm yết,UpCOM,09/10/2019,"PTV: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu PTV từ thị trường Đại chúng chưa niêm yết sang thị trường UPCOM"
+153,KSH,VN000000KSH0,Cổ phiếu Công ty cổ phần DAMAC GLS,HOSE,UpCOM,11/09/2019,"KSH: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu KSH từ thị trường HOSE sang thị trường UPCOM"
+154,GEG,VN000000GEG0,Cổ phiếu Công ty cổ phần Điện Gia Lai,UpCOM,HOSE,13/09/2019,"GEG: Thông báo về việc chốt dữ liệu đăng ký, lưu ký đối với chứng khoán chuyển sàn từ thị trường đăng ký giao dịch tại HNX sang thị trường niêm yết tại HOSE"
+155,MEG,VN000000MEG8,Cổ phiếu Công ty cổ phần Megram,Đại chúng chưa niêm yết,UpCOM,06/09/2019,"MEG: Chuyển dữ liệu đăng ký, lưu ký chứng khoán từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội (HNX)"
+156,RVN,VN000000RVN7,Cổ phiếu Công ty cổ phần Roxy Việt Nam,UpCOM,Đại chúng chưa niêm yết,05/09/2019,"RVN: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu RVN từ thị trường UPCOM sang thị trường ĐCCNY"
+157,KAC,VN000000KAC9,Cổ phiếu Công ty cổ phần Đầu tư Địa ốc Khang An,HOSE,UpCOM,06/09/2019,"KAC: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu KAC từ thị trường HOSE sang thị trường UPCOM"
+158,PIA,VN000000PIA5,Cổ phiếu Công ty cổ phần Tin học Viễn thông Petrolimex,UpCOM,HNX,03/09/2019,"PIA: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu PIA từ thị trường đăng ký giao dịch UPCoM sang thị trường niêm yết tại HNX"
+159,HLG,VN000000HLG3,Cổ phiếu CTCP Tập đoàn Hoàng Long,HOSE,UpCOM,12/09/2019,"HLG: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu HLG từ thị trường HOSE sang thị trường UPCOM"
+160,VTR,VN000000VTR4,Cổ phiếu Công ty cổ phần Du lịch và Tiếp thị Giao thông Vận tải Việt Nam - Vietravel,Đại chúng chưa niêm yết,UpCOM,07/08/2019,"VTR: Thông báo về việc chốt dữ liệu đăng ký, lưu ký đối với chứng khoán chuyển sàn giao dịch từ thị trường ĐCCNY sang thị trường UPCOM"
+161,VBB,VN000000VBB6,Cổ phiếu Ngân hàng Thương mại cổ phần Việt Nam Thương Tín,Đại chúng chưa niêm yết,UpCOM,29/07/2019,"VBB: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu VBB từ thị trường ĐCCNY sang thị trường UPCOM"
+162,PHS,VN000000PHS9,Cổ phiếu Công ty cổ phần Chứng khoán Phú Hưng,Đại chúng chưa niêm yết,UpCOM,25/07/2019,"PHS: chuyển dữ liệu đăng ký, lưu ký cổ phiếu PHS từ thị trường Đại chúng chưa niêm yết sang thị trường UPCOM"
+163,DBC,VN000000DBC2,Cổ phiếu Công ty Cổ phần Tập đoàn DABACO Việt Nam,HNX,HOSE,22/07/2019,"DBC: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu DBC từ thị trường niêm yết HNX sang thị trường niêm yết HOSE"
+164,NSL,VN000000NSL6,Cổ phiếu Công ty cổ phần Cấp nước Sơn La,HNX,UpCOM,17/07/2019,"NSL: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu NSL từ thị trường niêm yết HNX sang thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội (HNX)"
+165,KOS,VN000000KOS6,Cổ phiếu Công ty cổ phần Kosy,UpCOM,HOSE,17/07/2019,"KOS: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu KOS từ thị trường đăng ký giao dịch tại HNX sang thị trường niêm yết tại HOSE"
+166,TIE,VN000000TIE9,Cổ phiếu Công ty cổ phần TIE,HOSE,UpCOM,05/08/2019,"TIE: Thông báo về việc chuyển dữ liệu đăng ký, lưu ký đối với chứng khoán chuyển sàn giao dịch từ thị trường HOSE sang thị trường UPCOM"
+167,NTF,VN000000NTF6,Cổ phiếu Công ty cổ phần Dược - Vật tư Y tế Nghệ An,Đại chúng chưa niêm yết,UpCOM,02/07/2019,"NTF: Chuyển dữ liệu đăng ký, lưu ký chứng khoán NTF từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội (HNX)"
+168,XMC,VN000000XMC7,Cổ phiếu Công ty cổ phần Đầu tư và Xây dựng Xuân Mai,Đại chúng chưa niêm yết,UpCOM,27/06/2019,"XMC: Chuyển dữ liệu đăng ký, lưu ký chứng khoán XMC từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội (HNX)"
+169,EVS,VN000000EVS4,Cổ phiếu Công ty cổ phần Chứng khoán Everest,UpCOM,HNX,18/06/2019,"EVS: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu EVS từ thị trường đăng ký giao dịch tại UPCOM sang thị trường niêm yết tại HNX"
+170,ALV,VN000000ALV7,Cổ phiếu Công ty cổ phần Xây dựng ALVICO,HNX,UpCOM,18/06/2019,"ALV: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu ALV từ thị trường HNX sang thị trường UPCOM"
+171,LTC,VN000000LTC7,Cổ phiếu CTCP Điện nhẹ Viễn Thông,HNX,UpCOM,01/07/2019,"LTC: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu LTC từ thị trường HNX sang thị trường UPCOM"
+172,DLR,VN000000DLR9,Cổ phiếu CTCP Địa ốc Đà Lạt,HNX,UpCOM,28/05/2019,"DLR: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu DLR từ thị trường HNX sang thị trường UPCOM"
+173,KHB,VN000000KHB6,Cổ phiếu Công ty cổ phần khoáng sản Hoà Bình,HNX,UpCOM,20/06/2019,"KHB: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu KHB từ thị trường HNX sang thị trường UPCOM"
+174,ASA,VN000000ASA6,Cổ phiếu Công ty cổ phần ASA,HNX,UpCOM,17/06/2019,"ASA: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu ASA từ thị trường HNX sang thị trường UPCOM"
+175,TV2,VN000000TV22,Cổ phiếu CTCP Tư vấn Xây dựng điện 2,HNX,HOSE,31/05/2019,"TV2: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu TV2 từ thị trường HNX sang thị trường HOSE"
+176,SCJ,VN000000SCJ3,Cổ phiếu Công ty Cổ phần Xi măng Sài Sơn,HNX,UpCOM,22/05/2019,"SCJ: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu SCJ từ thị trường niêm yết tại Sở Giao dịch Chứng khoán Hà Nội (HNX) sang thị trường đăng ký giao dịch tại Sở Giao dịch Chứng khoán Hà Nội (UPCOM)"
+177,VGC,VN000000VGC3,Cổ phiếu Tổng Công ty Viglacera – CTCP,HNX,HOSE,22/05/2019,"VGC: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu VGC từ thị trường niêm yết HNX sang thị trường niêm yết HOSE"
+178,CMI,VN000000CMI8,Cổ phiếu Công ty cổ phần CMISTONE Việt Nam,HNX,UpCOM,10/06/2019,"CMI: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu CMI từ thị trường HNX sang thị trường UPCOM"
+179,SDD,VN000000SDD4,Cổ phiếu Công ty cổ phần Đầu tư và Xây lắp Sông Đà,HNX,UpCOM,06/06/2019,"SDD: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu SDD từ thị trường niêm yết tại Sở Giao dịch Chứng khoán Hà Nội (HNX) sang thị trường đăng ký giao dịch tại Sở Giao dịch Chứng khoán Hà Nội (UPCOM)"
+180,PVV,VN000000PVV4,Cổ phiếu Công ty cổ phần Vinaconex 39,HNX,UpCOM,28/05/2019,"PVV: Thông báo về việc chốt dữ liệu đăng ký, lưu ký đối với chứng khoán chuyển sàn giao dịch từ thị trường HNX sang thị trường UPCOM"
+181,DCS,VN000000DCS6,Cổ phiếu Công ty Cổ phần Tập đoàn Đại Châu,HNX,UpCOM,28/05/2019,"DCS: Thông báo về việc chốt dữ liệu đăng ký, lưu ký đối với chứng khoán chuyển sàn từ thị trường niêm yết HNX sang thị trường UpCOM"
+182,PCN,VN000000PCN1,Cổ phiếu Công ty cổ phần Hóa phẩm dầu khí DMC – Miền Bắc,HNX,UpCOM,27/05/2019,"PCN: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu PCN từ thị trường niêm yết tại Sở Giao dịch Chứng khoán Hà Nội (HNX) sang thị trường đăng ký giao dịch tại Sở Giao dịch Chứng khoán Hà Nội(UpCOM)"
+183,VHG,VN000000VHG2,Cổ Phiếu Công ty Cổ phần Đầu tư cao su Quảng Nam,HOSE,UpCOM,27/05/2019,"VHG: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu VHG từ thị trường HOSE sang thị trường UPCOM"
+184,HVN,VN000000HVN8,Cổ phiếu Tổng Công ty Hàng không Việt Nam - CTCP,UpCOM,HOSE,25/04/2019,"HVN: Chuyển dữ liệu đăng ký, lưu ký chứng khoán HVN từ thị trường đăng ký giao dịch tại HNX sang thị trường niêm yết tại HOSE"
+185,PPI,VN000000PPI3,Cổ phiếu Công ty cổ phần Đầu tư và Phát triển Dự án Hạ tầng Thái Bình Dương,HOSE,UpCOM,22/05/2019,"PPI: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu PPI từ thị trường HOSE sang thị trường UPCOM"
+186,ICF,VN000000ICF2,Cổ phiếu Công ty Cổ phần Đầu tư Thương Mại Thủy Sản,HOSE,UpCOM,,"ICF: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu ICF từ thị trường HOSE sang thị trường UPCOM"
+187,MFS,VN000000MFS0,Cổ phiếu Công ty cổ phần Dịch vụ kỹ thuật Mobifone,Đại chúng chưa niêm yết,UpCOM,12/04/2019,"MFS: Chuyển dữ liệu đăng ký, lưu ký chứng khoán MFS từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội (HNX)"
+188,CMT,VN000000CMT5,Cổ phiếu Công ty cổ phần Công Nghệ Mạng và Truyền Thông,HOSE,UpCOM,22/04/2019,"CMT: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu CMT từ thị trường HOSE sang thị trường UPCOM:"
+189,SDE,VN000000SDE2,Cổ phiếu CTCP Kỹ thuật Điện Sông Đà,HNX,UpCOM,23/04/2019,"SDE: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu SDE từ thị trường niêm yết HNX sang thị trường UpCOM"
+190,ORS,VN000000ORS1,Cổ phiếu Công ty Cổ phần Chứng khoán Tiên Phong,HNX,UpCOM,12/04/2019,"ORS: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu ORS từ thị trường HNX sang thị trường UPCOM"
+191,SDP,VN000000SDP8,Cổ phiếu Công ty cổ phần SDP,HNX,UpCOM,25/02/2019,"SDP: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu SDP từ thị trường HNX sang thị trường UPCOM"
+192,TOW,VN000000TOW9,Cổ phiếu Công ty cổ phần Cấp nước Trà Nóc - Ô Môn,Đại chúng chưa niêm yết,UpCOM,22/01/2019,"TOW: chuyển dữ liệu đăng ký, lưu ký cổ phiếu TOW từ thị trường Đại chúng chưa niêm yết sang thị trường UPCOM"
+193,PBT,VN000000PBT0,Cổ phiếu Công ty Cổ phần Nhà và Thương mại Dầu khí,Đại chúng chưa niêm yết,UpCOM,18/01/2019,"PBT: chuyển dữ liệu đăng ký, lưu ký cổ phiếu PBT từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom)"
+194,POW,VN000000POW7,Cổ phiếu Tổng Công ty Điện lực Dầu khí Việt Nam – Công ty cổ phần,UpCOM,HOSE,07/01/2019,"POW: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu POW từ sàn UPCOM sang thị trường niêm yết tại HOSE"
+195,SZC,VN000000SZC9,Cổ phiếu Công ty cổ phần Sonadezi Châu Đức,Đại chúng chưa niêm yết,HOSE,03/01/2019,"SZC: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu SZC từ thị trường DCCNY sang thị trường HOSE"
+196,VTK,VN000000VTK9,Cổ phiếu Công ty cổ phần Tư vấn Thiết kế Viettel,Đại chúng chưa niêm yết,UpCOM,17/12/2018,"VTK: Chuyển dữ liệu đăng ký, lưu ký chứng khoán VTK từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội (HNX)"
+197,C4G,VN000000C4G0,Cổ phiếu Công ty cổ phần Tập đoàn CIENCO4,Đại chúng chưa niêm yết,UpCOM,07/12/2018,"C4G: chuyển dữ liệu đăng ký, lưu ký chứng khoán C4G từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội (HNX)"
+198,GDW,VN000000GDW9,Cổ phiếu CTCP Cấp nước Gia Định,UpCOM,HNX,11/12/2018,"GDW: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu GDW từ thị trường UPCOM sang thị trường HNX"
+199,VTP,VN000000VTP8,Cổ phiếu Tổng công ty Cổ phần Bưu chính Viettel,Đại chúng chưa niêm yết,UpCOM,20/11/2018,"VTP: Chuyển dữ liệu đăng ký, lưu ký chứng khoán VTP từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội (HNX)"
+200,SVJ,VN000000SVJ3,Cổ phiếu Công ty cổ phần Santomas Việt Nam,HNX,Đại chúng chưa niêm yết,16/11/2018,"SVJ: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu SVJ từ thị trường HNX sang thị trường ĐCCNY"
+201,TID,VN000000TID1,Cổ phiếu Công ty cổ phần Tổng công ty Tín Nghĩa,Đại chúng chưa niêm yết,UpCOM,16/11/2018,"TID: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu TID từ thị trường Đại chúng chưa niêm yết sang thị trường UPCOM"
+202,HHD,VN000000HHD8,Cổ phiếu CTCP Kinh doanh Phát triển nhà và Đô thị Hà Nội,UpCOM,Đại chúng chưa niêm yết,13/11/2018,"HHD: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu HHD từ thị trường UPCOM sang thị trường ĐCCNY"
+203,TDP,VN000000TDP6,Cổ phiếu Công ty cổ phần Thuận Đức,HOSE,UpCOM,09/11/2018,"TDP: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu TDP từ thị trường HOSE sang thị trường UPCOM"
+204,FHS,VN000000FHS0,Cổ phiếu Công ty cổ phần Phát hành sách thành phố Hồ Chí Minh - FAHASA,Đại chúng chưa niêm yết,UpCOM,31/10/2018,"FHS: chuyển dữ liệu đăng ký, lưu ký cổ phiếu FHS từ thị trường Đại chúng chưa niêm yết sang thị trường UPCOM"
+205,TDM,VN000000TDM3,Cổ phiếu Công ty cổ phần Nước Thủ Dầu Một,UpCOM,HOSE,18/10/2018,"TDM: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu TDM từ thị trường UPCOM sang thị trường HOSE"
+206,PHC,VN000000PHC3,Cổ phiếu Công ty cổ phần Xây dựng Phục Hưng Holdings,HNX,HOSE,27/09/2018,"PHC: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu PHC từ thị trường niêm yết HNX sang thị trường niêm yết HOSE"
+207,ART,VN000000ART8,Cổ phiếu Công ty cổ phần Chứng khoán BOS,UpCOM,HNX,26/09/2018,"ART: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu ART từ thị trường đăng ký giao dịch UPCoM sang thị trường niêm yết tại HNX"
+208,TAG,VN000000TAG1,Cổ phiếu CTCP Thế giới số Trần Anh,HNX,UpCOM,19/09/2018,"TAG: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu TAG từ thị trường HNX sang thị trường UPCOM"
+209,BDC,VN000000BDC2,Cổ phiếu Tổng Công ty Xây dựng Bạch Đằng - CTCP,Đại chúng chưa niêm yết,UpCOM,12/09/2018,"BDC: Chuyển dữ liệu đăng ký, lưu ký chứng khoán BDC từ thị trường ĐCCNY sang thị trường Upcom"
+210,QNP,VN000000QNP1,Cổ phiếu Công ty cổ phần Cảng Quy Nhơn,HOSE,Đại chúng chưa niêm yết,30/08/2018,"QNP: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu QNP từ thị trường HOSE sang thị trường ĐCCNY"
+211,BDC,VN000000BDC2,Cổ phiếu Tổng Công ty Xây dựng Bạch Đằng - CTCP,UpCOM,Đại chúng chưa niêm yết,15/08/2018,"BDC: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu BDC từ thị trường UPCOM sang thị trường ĐCCNY"
+212,ILC,VN000000ILC0,Cổ phiếu CTCP Hợp tác Lao động với nước ngoài,Đại chúng chưa niêm yết,UpCOM,09/08/2018,"ILC: Chuyển dữ liệu đăng ký, lưu ký chứng khoán ILC từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội (HNX)"
+213,PIV,VN000000PIV1,Cổ phiếu Công ty cổ phần PIV,HNX,UpCOM,04/09/2018,"PIV: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu PIV từ thị trường HNX sang thị trường UPCOM"
+214,TTB,VN000000TTB2,Cổ phiếu Công ty cổ phần Tập đoàn Tiến Bộ,HNX,HOSE,10/08/2018,"TTB: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu TTB từ thị trường HNX sang thị trường HOSE"
+215,VNY,VN000000VNY3,Cổ phiếu Công ty cổ phần Thuốc Thú Y Trung Ương I,Đại chúng chưa niêm yết,UpCOM,02/08/2018,"VNY: Chuyển dữ liệu đăng ký, lưu ký chứng khoán VNY từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội (HNX)"
+216,CDO,VN000000CDO5,Cổ phiếu Công ty cổ phần Tư vấn thiết kế và Phát triển đô thị,HOSE,UpCOM,07/08/2018,"CDO: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu CDO từ thị trường HOSE sang thị trường UPCOM"
+217,SMB,VN000000SMB9,Cổ phiếu CTCP Bia Sài Gòn - Miền Trung,UpCOM,HOSE,30/07/2018,"SMB: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu SMB từ thị trường UPCOM sang thị trường HOSE"
+218,SCS,VN000000SCS4,Cổ phiếu Công ty cổ phần Dịch vụ Hàng hóa Sài Gòn,UpCOM,HOSE,30/07/2018,"SCS: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu SCS từ thị trường UPCOM sang thị trường HOSE"
+219,KSA,VN000000KSA5,Cổ phiếu CTCP Công nghiệp Khoáng sản Bình Thuận,HOSE,UpCOM,03/08/2018,"KSA: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu KSA từ thị trường HOSE sang thị trường UPCOM"
+220,FRC,VN000000FRC3,Cổ phiếu Công ty cổ phần Lâm đặc sản Xuất khẩu Quảng Nam,Đại chúng chưa niêm yết,UpCOM,25/07/2018,"FRC: Chuyển dữ liệu đăng ký, lưu ký chứng khoán FRC từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội (HNX)"
+221,B82,VN000000B822,Cổ phiếu Công ty cổ phần 482,HNX,UpCOM,22/08/2018,"B82: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu B82 từ thị trường HNX sang thị trường UPCOM"
+222,SGN,VN000000SGN6,Cổ phiếu Công ty cổ phần Phục vụ mặt đất Sài Gòn,UpCOM,HOSE,25/07/2018,"SGN: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu SGN từ thị trường UPCOM sang thị trường HOSE"
+223,HIZ,VN000000HIZ9,Cổ phiếu Công ty cổ phần Khu công nghiệp Hố Nai,Đại chúng chưa niêm yết,UpCOM,19/07/2018,"HIZ: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu HIZ từ thị trường ĐCCNY sang thị trường UPCOM"
+224,VBB,VN000000VBB6,Cổ phiếu Ngân hàng Thương mại cổ phần Việt Nam Thương Tín,UpCOM,Đại chúng chưa niêm yết,09/07/2018,"VBB: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu VBB từ thị trường UPCOM sang thị trường ĐCCNY"
+225,VEA,VN000000VEA2,Cổ phiếu Tổng công ty Máy động lực và Máy nông nghiệp Việt Nam - CTCP,Đại chúng chưa niêm yết,UpCOM,29/06/2018,"VEA: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu VEA từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội (HNX)"
+226,CCM,VN000000CCM1,Cổ phiếu CTCP Khoáng sản và Xi măng Cần Thơ,HNX,UpCOM,03/07/2018,"CCM: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu CCM từ thị trường niêm yết HNX sang thị trường UPCOM"
+227,TVB,VN000000TVB8,Cổ phiếu Công ty cổ phần Chứng khoán Trí Việt,UpCOM,HOSE,28/06/2018,"TVB: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu TVB từ thị trường đăng ký giao dịch UPCoM sang thị trường niêm yết tại HOSE"
+228,VPI,VN000000VPI1,Cổ phiếu Công ty cổ phần Đầu tư Văn Phú - Invest,HNX,HOSE,25/06/2018,"VPI: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu VPI từ thị trường niêm yết tại Sở Giao dịch Chứng khoán Hà Nội (HNX) sang thị trường niêm yết tại Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh (HOSE)"
+229,STT,VN000000STT6,Cổ phiếu Công ty cổ phần Vận chuyển Sài Gòn Tourist,HOSE,UpCOM,10/07/2018,"STT: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu STT từ thị trường niêm yết HOSE sang thị trường UPCOM"
+230,DP1,VN000000DP10,Cổ phiếu Công ty cổ phần Dược phẩm Trung ương CPC1,Đại chúng chưa niêm yết,UpCOM,11/06/2018,"DP1: Chuyển dữ liệu đăng ký, lưu ký chứng khoán DP1 từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội (HNX)"
+231,ABR,VN000000ABR6,Cổ phiếu Công ty cổ phần Đầu tư Nhãn Hiệu Việt,HNX,UpCOM,11/06/2018,"ABR: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu ABR từ thị trường HNX sang thị trường UPCOM"
+232,BBT,VN000000BBT0,Cổ phiếu Công ty cổ phần Bông Bạch Tuyết,Đại chúng chưa niêm yết,UpCOM,11/06/2018,"BBT: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu BBT từ thị trường Đại chúng chưa niêm yết sang thị trường UPCOM"
+233,DBD,VN000000DBD0,Cổ phiếu Công ty cổ phần Dược - Trang thiết bị y tế Bình Định (Bidiphar),UpCOM,HOSE,12/06/2018,"DBD: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu DBD từ thị trường đăng ký giao dịch UPCoM sang thị trường niêm yết tại HOSE"
+234,MFS,VN000000MFS0,Cổ phiếu Công ty cổ phần Dịch vụ kỹ thuật Mobifone,UpCOM,Đại chúng chưa niêm yết,07/06/2018,"MFS: Chuyển dữ liệu đăng ký, lưu ký chứng khoán MFS từ thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội sang thị trường Đại chúng chưa niêm yết"
+235,VTE,VN000000VTE2,Cổ phiếu Công ty cổ phần Viễn thông Điện tử VINACAP,Đại chúng chưa niêm yết,UpCOM,04/06/2018,"VTE: Chuyển dữ liệu đăng ký, lưu ký chứng khoán VTE từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội (HNX)"
+236,TCB,VN000000TCB8,Cổ phiếu Ngân hàng Thương mại cổ phần Kỹ thương Việt Nam,Đại chúng chưa niêm yết,HOSE,01/06/2018,"TCB: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu TCB từ thị trường đại chúng chưa niêm yết sang thị trường niêm yết tại Sở Giao dịch Chứng khoán thành phố Hồ Chí Minh"
+237,TV1,VN000000TV14,Cổ phiếu Công ty cổ phần Tư vấn Xây dựng điện 1,HOSE,UpCOM,15/06/2018,"TV1: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu TV1 từ thị trường niêm yết tại Sở giao dịch Chứng khoán Tp. Hồ Chí Minh (HOSE) sang thị trường đăng ký giao dịch tại Sở giao dịch Chứng khoán Hà Nội (UPCOM)"
+238,MLS,VN000000MLS8,Cổ phiếu Công ty cổ phần Chăn nuôi - Mitraco,HNX,UpCOM,12/06/2018,"MLS: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu MLS từ thị trường niêm yết HNX sang thị trường UpCOM"
+239,DPG,VN000000DPG3,Cổ phiếu Công ty cổ phần Đạt Phương,UpCOM,HOSE,21/05/2018,"DPG: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu DPG từ sàn UPCOM sang thị trường niêm yết tại HOSE"
+240,BHT,VN000000BHT7,Cổ phiếu Công ty cổ phần Đầu tư Xây dựng Bạch Đằng TMC,HNX,UpCOM,05/06/2018,"BHT: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu BHT từ thị trường niêm yết HNX sang thị trường UpCOM"
+241,L44,VN000000L441,Cổ phiếu CTCP LILAMA 45.4,HNX,UpCOM,05/06/2018,"L44: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu L44 từ thị trường niêm yết HNX sang thị trường UPCOM"
+242,PXA,VN000000PXA4,Cổ phiếu Công ty cổ phần Đầu tư và Thương mại Dầu khí Nghệ An,HNX,UpCOM,07/06/2018,"PXA: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu PXA từ thị trường HNX sang thị trường UPCOM"
+243,KHL,VN000000KHL5,Cổ phiếu Công ty cổ phần Khoáng sản và Vật liệu Xây dựng Hưng Long,HNX,UpCOM,05/06/2018,"KHL: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu KHL từ thị trường HNX sang thị trường UPCOM"
+244,PBT,VN000000PBT0,Cổ phiếu Công ty Cổ phần Nhà và Thương mại Dầu khí,HNX,Đại chúng chưa niêm yết,04/05/2018,"PBT: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu PBT từ thị trường HNX sang thị trường ĐCCNY"
+245,SD7,VN000000SD74,Cổ phiếu Công ty cổ phần Sông Đà 7,HNX,UpCOM,29/05/2018,"SD7: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu SD7 từ thị trường HNX sang thị trường UPCOM"
+246,TOW,VN000000TOW9,Cổ phiếu Công ty cổ phần Cấp nước Trà Nóc - Ô Môn,UpCOM,Đại chúng chưa niêm yết,24/04/2018,"TOW: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu TOW từ thị trường UPCOM sang thị trường ĐCCNY"
+247,SLD,VN000000SLD7,Cổ phiếu Công ty cổ phần Địa ốc Sacom,HOSE,Đại chúng chưa niêm yết,23/04/2018,"SLD: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu SLD từ thị trường HSX sang thị trường ĐCCNY"
+248,MNB,VN000000MNB0,Cổ phiếu Tổng công ty May Nhà Bè - Công ty cổ phần,Đại chúng chưa niêm yết,UpCOM,23/04/2018,"MNB: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu MNB từ thị trường Đại chúng chưa niêm yết sang thị trường UPCOM"
+249,HSM,VN000000HSM6,Cổ phiếu Tổng Công ty Cổ phần Dệt May Hà Nội,UpCOM,UpCOM,18/04/2018,"HSM: Chuyển dữ liệu đăng ký, lưu ký chứng khoán HSM từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội (HNX)"
+250,TPB,VN000000TPB0,Cổ phiếu Ngân hàng Thương mại cổ phần Tiên Phong,Đại chúng chưa niêm yết,HOSE,13/04/2018,"TPB: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu TPB từ thị trường đại chúng chưa niêm yết sang thị trường niêm yết tại Sở Giao dịch Chứng khoán thành phố Hồ Chí Minh"
+251,KHA,VN000000KHA8,Cổ phiếu Công ty CP Đầu tư và Dịch vụ Khánh Hội,HOSE,UpCOM,07/05/2018,"KHA: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu từ thị trường niêm yết HOSE sang thị trường UPCOM"
+252,SAP,VN000000SAP4,Cổ phiếu CTCP In Sách giáo khoa Tp.HCM,HNX,UpCOM,02/05/2018,"SAP: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu SAP từ thị trường niêm yết HNX sang thị trường UPCOM"
+253,GID,VN000000GID8,Cổ phiếu Công ty cổ phần Dệt may Gia Định,UpCOM,Đại chúng chưa niêm yết,02/04/2018,"GID: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu GID từ thị trường UPCOM sang thị trường ĐCCNY"
+254,TH1,VN000000TH12,Cổ phiếu Công ty cổ phần Xuất nhập khẩu Tổng hợp I Việt Nam,HNX,UpCOM,24/04/2018,"TH1: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu TH1 từ thị trường HNX sang thị trường UPCOM"
+255,NAP,VN000000NAP5,Cổ phiếu Công ty cổ phần Cảng Nghệ Tĩnh,UpCOM,HNX,23/03/2018,"NAP: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu NAP từ thị trường đăng ký giao dịch UPCOM sang thị trường niêm yết tại Sở Giao dịch Chứng khoán Hà Nội"
+256,TEG,VN000000TEG3,Cổ phiếu Công ty cổ phần Năng lượng và Bất động sản Trường Thành,HNX,HOSE,06/03/2018,"TEG: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu TEG từ thị trường niêm yết HNX sang thị trường niêm yết HOSE"
+257,VPD,VN000000VPD2,Cổ phiếu Công ty cổ phần Phát triển Điện lực Việt Nam,UpCOM,HOSE,17/01/2018,"VPD: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu VPD từ thị trường đăng ký giao dịch (UPCOM) tại Sở Giao dịch Chứng khoán Hà Nội sang thị trường niêm yết tại Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh"
+258,GEX,VN000000GEX5,Cổ phiếu Tổng Công ty cổ phần Thiết bị điện Việt Nam,UpCOM,HOSE,17/01/2018,"GEX: chuyển dữ liệu đăng ký, lưu ký cổ phiếu GEX từ thị trường UPCOM sang thị trường niêm yết tại HOSE"
+259,CAT,VN000000CAT0,Cổ phiếu CTCP Thuỷ sản Cà Mau,Đại chúng chưa niêm yết,UpCOM,11/01/2018,"CAT: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu CAT từ thị trường DCCNY sang thị trường UPCOM"
+260,IDN,VN000000IDN4,Cổ phiếu Công ty cổ phần In và Dịch vụ Đà Nẵng,Đại chúng chưa niêm yết,UpCOM,11/01/2018,"IDN: chuyển dữ liệu đăng ký, lưu ký chứng khoán IDN từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội (HNX)"
+261,SGR,VN000000SGR7,Cổ phiếu Công ty cổ phần Địa ốc Sài Gòn,UpCOM,HOSE,10/01/2018,"SGR: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu SGR từ thị trường UPCOM sang thị trường HOSE"
+262,MKP,VN000000MKP6,Cổ phiếu CTCP Hóa - Dược phẩm Mekophar,Đại chúng chưa niêm yết,UpCOM,17/01/2018,"MKP: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu MKP từ thị trường ĐCCNY sang thị trường UPCOM"
+263,MFS,VN000000MFS0,Cổ phiếu Công ty cổ phần Dịch vụ kỹ thuật Mobifone,Đại chúng chưa niêm yết,UpCOM,08/01/2018,"MFS: Chuyển dữ liệu đăng ký, lưu ký chứng khoán MFS từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội (HNX)"
+264,UXC,VN000000UXC0,Cổ phiếu Công ty cổ phần Chế biến Thủy sản Út Xi,UpCOM,Đại chúng chưa niêm yết,05/01/2018,"UXC: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu UXC từ thị trường UPCOM sang thị trường ĐCCNY"
+265,BAL,VN000000BAL9,Công ty cổ phần Bao bì Bia – Rượu – Nước giải khát,Đại chúng chưa niêm yết,UpCOM,05/01/2018,"BAL: Chuyển dữ liệu đăng ký, lưu ký chứng khoán BAL từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội (HNX)"
+266,NTT,VN000000NTT7,Cổ phiếu Công ty cổ phần Dệt – May Nha Trang,Đại chúng chưa niêm yết,UpCOM,26/12/2017,"NTT: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu NTT từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội (HNX)"
+267,FHS,VN000000FHS0,Cổ phiếu Công ty cổ phần Phát hành sách thành phố Hồ Chí Minh - FAHASA,UpCOM,Đại chúng chưa niêm yết,25/12/2017,"FHS: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu FHS từ thị trường UPCOM sang thị trường DCCNY"
+268,IBC,VN000000IBC1,Cổ phiếu Công ty cổ phần Đầu tư Apax Holdings,UpCOM,HOSE,14/12/2017,"IBC: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu IBC từ thị trường đăng ký giao dịch tại HNX sang thị trường niêm yết tại HOSE"
+269,NPS,VN000000NPS7,Cổ phiếu Công ty cổ phần May Phú Thịnh – Nhà Bè,HNX,UpCOM,07/12/2017,"NPS: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu NPS từ thị trường niêm yết HNX sang thị trường UPCOM"
+270,KOS,VN000000KOS6,Cổ phiếu Công ty cổ phần Kosy,HNX,UpCOM,06/12/2017,"KOS: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu KOS từ thị trường niêm yết HNX sang thị trường UPCOM"
+271,BWS,VN000000BWS8,Cổ phiếu Công ty cổ phần Cấp nước Bà Rịa - Vũng Tàu,Đại chúng chưa niêm yết,UpCOM,27/11/2017,"BWS: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu BWS từ thị trường Đại chúng chưa niêm yết sang thị trường UPCOM"
+272,FRM,VN000000FRM2,Cổ phiếu Công ty cổ phần Lâm nghiệp Sài Gòn,Đại chúng chưa niêm yết,UpCOM,21/11/2017,"FRM: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu FRM từ thị trường Đại chúng chưa niêm yết sang thị trường UPCOM"
+273,BTW,VN000000BTW6,Cổ phiếu CTCP Cấp nước Bến Thành,UpCOM,HNX,10/11/2017,"BTW: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu BTW từ thị trường UPCOM sang thị trường HNX"
+274,NBW,VN000000NBW9,Cổ phiếu CTCP Cấp nước Nhà Bè,UpCOM,HNX,13/11/2017,"NBW: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu NBW từ thị trường UPCOM sang thị trường niêm yết HNX"
+275,OTG,VN000000OTG2,Cổ phiếu Công ty cổ phần Otran Logistics,HNX,Đại chúng chưa niêm yết,27/10/2017,"OTG: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu OTG từ thị trường HNX sang thị trường ĐCCNY"
+276,CTR,VN000000CTR4,Cổ phiếu Tổng Công ty cổ phần Công trình Viettel,Đại chúng chưa niêm yết,UpCOM,26/10/2017,"CTR: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu CTR từ thị trường ĐCCNY sang thị trường Upcom"
+277,MPC,VN000000MPC3,Cổ phiếu CTCP Tập đoàn Thủy sản Minh Phú,Đại chúng chưa niêm yết,UpCOM,,"MPC: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu MPC từ thị trường Đại chúng chưa niêm yết sang thị trường UPCOM"
+278,SHC,VN000000SHC7,Cổ phiếu CTCP Hàng Hải Sài Gòn,Đại chúng chưa niêm yết,UpCOM,09/10/2017,"SHC: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu SHC từ thị trường Đại chúng chưa niêm yết sang thị trường UPCOM"
+279,VMG,VN000000VMG2,Cổ phiếu CTCP Thương mại và dịch vụ dầu khí Vũng Tàu,Đại chúng chưa niêm yết,UpCOM,06/10/2017,"VMG: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu VMG từ thị trường Đại chúng chưa niêm yết sang thị trường UPCOM"
+280,CVT,VN000000CVT6,Cổ phiếu CTCP CMC,HNX,HOSE,03/10/2017,"CVT: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu CVT từ thị trường niêm yết HNX sang thị trường niêm yết HOSE"
+281,HPI,VN000000HPI0,Cổ phiếu CTCP Khu công nghiệp Hiệp Phước,Đại chúng chưa niêm yết,UpCOM,02/10/2017,"HPI: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu HPI từ thị trường Đại chúng chưa niêm yết sang thị trường giao dịch UPCOM"
+282,BTH,VN000000BTH7,Cổ phiếu CTCP Chế tạo Biến thế và Vật liệu điện Hà Nội,Đại chúng chưa niêm yết,UpCOM,26/09/2017,"BTH: Chuyển dữ liệu đăng ký, lưu ký chứng khoán BTH từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội (HNX)"
+283,MSR11606,VN0MSR116069,Trái phiếu TNTI102018,HOSE,Đại chúng chưa niêm yết,19/09/2017,"MSR11606: Chuyển dữ liệu đăng ký, lưu ký trái phiếu MSR11606 từ thị trường HOSE sang thị trường DCCNY"
+284,DP1,VN000000DP10,Cổ phiếu Công ty cổ phần Dược phẩm Trung ương CPC1,UpCOM,Đại chúng chưa niêm yết,08/09/2017,"DP1: chuyển dữ liệu đăng ký, lưu ký cổ phiếu DP1 từ thị trường UPCOM sang thị trường ĐCCNY"
+285,CCH,VN000000CCH1,Cổ phiếu Công ty cổ phần Tư vấn và Đầu tư Xây dựng CCIC Hà Nội,Đại chúng chưa niêm yết,UpCOM,29/08/2017,"CCH: Chuyển dữ liệu đăng ký, lưu ký chứng khoán CCH từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội (HNX)"
+286,NTF,VN000000NTF6,Cổ phiếu Công ty cổ phần Dược - Vật tư Y tế Nghệ An,UpCOM,Đại chúng chưa niêm yết,24/08/2017,"NTF: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu NTF từ thị trường UPCOM sang thị trường ĐCCNY"
+287,PPH,VN000000PPH5,Cổ phiếu Tổng công ty cổ phần Phong Phú,Đại chúng chưa niêm yết,UpCOM,22/08/2017,"PPH: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu PPH từ thị trường ĐCCNY sang thị trường UPCOM"
+288,ATB,VN000000ATB2,Cổ phiếu Công ty cổ phần An Thịnh,Đại chúng chưa niêm yết,UpCOM,21/08/2017,"ATB: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu ATB từ thị trường ĐCCNY sang thị trường Upcom"
+289,SDH,VN000000SDH5,Cổ phiếu CTCP Xây dựng hạ tầng Sông Đà,HNX,UpCOM,12/09/2017,"SDH: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu SDH từ thị trường HNX sang thị trường UPCOM"
+290,VND,VN000000VND7,Cổ phiếu CTCP Chứng khoán VnDirect,HNX,HOSE,16/08/2017,"VND: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu VND từ thị trường niêm yết HNX sang thị trường niêm yết HOSE"
+291,VDP,VN000000VDP2,Cổ phiếu CTCP Dược phẩm Trung ương VIDIPHA,Đại chúng chưa niêm yết,HOSE,14/08/2017,"VDP: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu VDP từ thị trường ĐCCNY sang thị trường HOSE"
+292,TVP,VN000000TVP8,Cổ phiếu CTCP Dược phẩm TV.Pharm,Đại chúng chưa niêm yết,UpCOM,14/08/2017,"TVP: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu TVP từ thị trường ĐCCNY sang thị trường UPCOM"
+293,DSG,VN000000DSG7,Cổ phiếu Công ty cổ phần Kính Viglacera Đáp Cầu,Đại chúng chưa niêm yết,UpCOM,09/08/2017,"DSG: Thực hiện chuyển dữ liệu đăng ký, lưu ký chứng khoán DSG từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội"
+294,CPI,VN000000CPI1,Cổ phiếu Công ty cổ phần Đầu tư Cảng Cái Lân,Đại chúng chưa niêm yết,UpCOM,25/07/2017,"CPI: chuyển dữ liệu đăng ký, lưu ký chứng khoán CPI từ thị trường ĐCCNY sang thị trường Upcom"
+295,MEG,VN000000MEG8,Cổ phiếu Công ty cổ phần Megram,HOSE,Đại chúng chưa niêm yết,25/07/2017,"EIG: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu EIG từ thị trường HOSE sang thị trường ĐCCNY"
+296,BGM,VN000000BGM4,Cổ phiếu Công ty cổ phần Khai thác và Chế biến Khoáng sản Bắc Giang,HOSE,UpCOM,14/08/2017,"BGM: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu BGM từ thị trường HOSE sang thị trường UPCOM"
+297,TVT,VN000000TVT0,Cổ phiếu Tổng công ty Việt Thắng - CTCP,Đại chúng chưa niêm yết,HOSE,14/07/2017,"TVT: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu TVT từ thị trường ĐCCNY sang thị trường HOSE"
+298,VDS,VN000000VDS6,Cổ phiếu CTCP Chứng khoán Rồng việt,HNX,HOSE,12/07/2017,"VDS: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu VDS từ thị trường HNX sang thị trường HOSE"
+299,HD6,VN000000HD69,Cổ phiếu Công ty cổ phần Đầu tư và Phát triển Nhà số 6 Hà Nội,UpCOM,Đại chúng chưa niêm yết,06/07/2017,"HD6: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu HD6 từ thị trường UPCOM sang thị trường ĐCCNY"
+300,HBH,VN000000HBH2,Cổ phiếu Công ty cổ phần Habeco Hải Phòng,Đại chúng chưa niêm yết,UpCOM,05/07/2017,"HBH: Chuyển dữ liệu đăng ký, lưu ký chứng khoán HBH từ thị trường ĐCCNY sang thị trường Upcom"
+301,G20,VN000000G201,Cổ phiếu Công ty cổ phần Đầu tư Dệt may Vĩnh Phúc,HNX,UpCOM,25/07/2017,"G20: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu G20 từ thị trường HNX sang thị trường UPCOM"
+302,VSM,VN000000VSM7,Cổ phiếu Công ty cổ phần Container miền Trung,UpCOM,HNX,27/06/2017,"VSM: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu VSM từ thị trường UPCOM sang thị trường niêm yết tại HNX"
+303,CTS,VN000000CTS2,Cổ phiếu Công ty cổ phần Chứng khoán Ngân hàng Công Thương Việt Nam,HNX,HOSE,19/06/2017,"CTS: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu CTS từ thị trường HNX sang thị trường HOSE"
+304,CH5,VN000000CH52,Cổ phiếu Công ty cổ phần Xây dựng số 5 Hà Nội,Đại chúng chưa niêm yết,UpCOM,12/06/2017,"CH5: Chuyển dữ liệu đăng ký, lưu ký chứng khoán CH5 từ thị trường ĐCCNY sang thị trường Upcom"
+305,LEC,VN000000LEC9,Cổ phiếu Công ty cổ phần Bất động sản điện lực Miền Trung,Đại chúng chưa niêm yết,HOSE,12/06/2017,"LEC: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu LEC từ thị trường ĐCCNY sang thị trường niêm yết tại HOSE"
+306,FRM,VN000000FRM2,Cổ phiếu Công ty cổ phần Lâm nghiệp Sài Gòn,UpCOM,Đại chúng chưa niêm yết,08/06/2017,"FRM: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu FRM từ thị trường UPCOM sang thị trường ĐCCNY"
+307,NHV,VN000000NHV8,Cổ phiếu Công ty cổ phần Đầu tư NHV,HNX,UpCOM,07/06/2017,"NHV: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu NHV từ thị trường HNX sang thị trường UPCOM"
+308,HTG,VN000000HTG6,Cổ phiếu Tổng công ty cổ phần Dệt may Hòa Thọ,Đại chúng chưa niêm yết,UpCOM,07/06/2017,"HTG: Chuyển dữ liệu đăng ký, lưu ký chứng khoán HTG từ thị trường ĐCCNY sang thị trường Upcom"
+309,APF,VN000000APF1,Cổ phiếu Công ty cổ phần Nông sản Thực phẩm Quảng Ngãi,Đại chúng chưa niêm yết,UpCOM,07/06/2017,"APF: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu APF từ thị trường ĐCCNY sang thị trường Upcom"
+310,HMS,VN000000HMS6,Cổ phiếu Công ty cổ phần Xây dựng bảo tàng Hồ Chí Minh,Đại chúng chưa niêm yết,UpCOM,30/05/2017,"HMS: Chuyển dữ liệu đăng ký, lưu ký chứng khoán HMS từ thị trường ĐCCNY sang thị trường Upcom"
+311,TNI,VN000000TNI0,Cổ phiếu Công ty cổ phần Tập đoàn Thành Nam,Đại chúng chưa niêm yết,HOSE,25/05/2017,"TNI: chuyển dữ liệu đăng ký, lưu ký cổ phiếu TNI từ thị trường ĐCCNY sang thị trường niêm yết tại HOSE"
+312,PYU,VN000000PYU0,Cổ phiếu Công ty cổ phần Môi trường và Công trình đô thị Phúc Yên,Đại chúng chưa niêm yết,UpCOM,12/05/2017,"PYU: Chuyển dữ liệu đăng ký, lưu ký chứng khoán PYU từ thị trường ĐCCNY sang thị trường Upcom"
+313,SDY,VN000000SDY0,Cổ phiếu CTCP Xi măng Sông Đà Yaly,HNX,UpCOM,06/06/2017,"SDY: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu SDY từ thị trường niêm yết HNX sang thị trường UPCOM"
+314,TTS,VN000000TTS6,Cổ phiếu Công ty cổ phần Cán thép Thái Trung,Đại chúng chưa niêm yết,UpCOM,11/05/2017,"TTS: Chuyển dữ liệu đăng ký, lưu ký chứng khoán TTS từ thị trường ĐCCNY sang thị trường đăng ký giao dịch (Upcom)"
+315,VFR,VN000000VFR3,Cổ phiếu Công ty Cổ phần Vận tải và Thuê tàu,HNX,UpCOM,06/06/2017,"VFR: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu VFR từ thị trường HNX sang thị trường UpCOM"
+316,BHV,VN000000BHV3,Cổ phiếu Công ty cổ phần Bá Hiến,Đại chúng chưa niêm yết,UpCOM,10/05/2017,"BHV: Chuyển dữ liệu đăng ký, lưu ký chứng khoán BHV từ thị trường ĐCCNY sang thị trường Upcom"
+317,VBH,VN000000VBH3,Cổ phiếu CTCP Điện tử Bình Hoà,HNX,UpCOM,30/05/2017,"VBH: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu VBH từ thị trường niêm yết HNX sang thị trường UPCOM"
+318,HDO,VN000000HDO4,Cổ phiếu CTCP Hưng Đạo Container,HNX,UpCOM,30/05/2017,"HDO: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu HDO từ thị trường niêm yết HNX sang thị trường UPCOM"
+319,PVR,VN000000PVR2,Cổ phiếu Công ty cổ phần Đầu tư PVR Hà Nội,HNX,UpCOM,30/05/2017,"PVR: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu PVR từ thị trường HNX sang thị trường UpCOM"
+320,MSI,VN000000MSI4,Cổ phiếu Công ty cổ phần Chứng khoán KB Việt Nam,HNX,Đại chúng chưa niêm yết,03/05/2017,"MSI: Theo dõi số liệu đăng ký, lưu ký đối với chứng khoán MSI từ thị trường HNX sang thị trường ĐCCNY"
+321,DHD,VN000000DHD7,Cổ phiếu CTCP Dược Vật tư Y tế Hải Dương,Đại chúng chưa niêm yết,UpCOM,03/05/2017,"DHD: chuyển dữ liệu đăng ký, lưu ký chứng khoán DHD từ thị trường ĐCCNY sang thị trường đăng ký giao dịch (Upcom"
+322,CYC,VN000000CYC6,Cổ Phiếu CTCP Gạch Men Chang Yih,HOSE,UpCOM,15/05/2017,"CYC: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu CYC từ thị trường niêm yết HOSE sang thị trường UPCOM"
+323,TTT,VN000000TTT4,Cổ phiếu Công ty cổ phần Du lịch – Thương mại Tây Ninh,Đại chúng chưa niêm yết,HNX,20/04/2017,"TTT: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu TTT từ thị trường ĐCCNY sang thị trường HNX"
+324,PLX,VN000000PLX1,Cổ phiếu Tập đoàn Xăng dầu Việt Nam,Đại chúng chưa niêm yết,HOSE,20/04/2017,"PLX: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu PLX từ thị trường đại chúng chưa niêm yết sang thị trường niêm yết tại HOSE"
+325,TEC,VN000000TEC2,Cổ phiếu Công ty cổ phần Traenco,Đại chúng chưa niêm yết,UpCOM,19/04/2017,"TEC: Chuyển dữ liệu đăng ký, lưu ký chứng khoán TEC từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội (HNX)"
+326,VTJ,VN000000VTJ1,Cổ phiếu Công ty cổ phần Thương mại và Đầu tư Vi na ta ba,UpCOM,HNX,20/04/2017,"VTJ: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu VTJ từ thị trường UPCOM sang thị trường niêm yết HNX"
+327,ATB,VN000000ATB2,Cổ phiếu Công ty cổ phần An Thịnh,UpCOM,Đại chúng chưa niêm yết,17/04/2017,"ATB: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu ATB từ thị trường UPCOM sang thị trường ĐCCNY"
+328,UPC,VN000000UPC6,Cổ phiếu CTCP phát triển Công viên cây xanh và Đô thị Vũng Tàu,Đại chúng chưa niêm yết,UpCOM,14/04/2017,"UPC: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu UPC từ thị trường Đại chúng chưa niêm yết sang thị trường UPCOM"
+329,VNA,VN000000VNA3,Cổ phiếu công ty cổ phần vận tải biển VINASHIP,HOSE,UpCOM,25/04/2017,"VNA: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu VNA từ thị trường HOSE sang thị trường UpCOM"
+330,EFI,VN000000EFI8,Cổ phiếu CTCP Đầu tư Tài chính Giáo dục,HNX,UpCOM,19/04/2017,"EFI: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu EFI từ thị trường HNX sang thị trường UpCOM"
+331,NAC,VN000000NAC3,Cổ phiếu Công ty cổ phần Tư vấn Xây dựng Tổng hợp,Đại chúng chưa niêm yết,UpCOM,17/03/2017,"NAC: chuyển dữ liệu đăng ký, lưu ký cổ phiếu NAC từ thị trường Đại chúng chưa niêm yết sang thị trường UPCOM"
+332,TTP,VN000000TTP2,Cổ phiếu Công ty CP bao bì nhựa Tân Tiến,Đại chúng chưa niêm yết,UpCOM,14/03/2017,"TTP: chuyển dữ liệu đăng ký, lưu ký cổ phiếu TTP từ thị trường Đại chúng chưa niêm yết sang thị trường UPCOM"
+333,EDX,VN000000EDX2,Cổ phiếu Công ty cổ phần Tập đoàn EDX,UpCOM,Đại chúng chưa niêm yết,08/03/2017,"EDX: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu EDX từ thị trường UPCOM sang thị trường ĐCCNY"
+334,MH3,VN000000MH35,Cổ phiếu Công ty cổ phần Khu Công nghiệp Cao su Bình Long,Đại chúng chưa niêm yết,UpCOM,03/03/2017,"MH3: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu MH3 từ thị trường Đại chúng chưa niêm yết sang thị trường UPCOM"
+335,BT6,VN000000BT67,Cổ phiếu Công ty cổ phần Beton6,Đại chúng chưa niêm yết,UpCOM,03/03/2017,"BT6: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu BT6 từ thị trường Đại chúng chưa niêm yết sang thị trường UPCOM"
+336,BTD,VN000000BTD6,Cổ phiếu Công ty cổ phần Bê tông Ly tâm Thủ Đức,Đại chúng chưa niêm yết,UpCOM,28/02/2017,"BTD: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu BTD từ thị trường Đại chúng chưa niêm yết sang thị trường UPCOM"
+337,VNH,VN000000VNH8,Cổ phiếu CTCP Đầu tư Việt Việt Nhật,HOSE,UpCOM,27/03/2017,"VNH: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu VNH từ thị trường HOSE sang thị trường UPCOM"
+338,EIC,VN000000EIC5,Cổ phiếu Công ty cổ phần EVN Quốc tế,Đại chúng chưa niêm yết,UpCOM,24/02/2017,"EIC: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu EIC từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) trên Sở Giao dịch Chứng khoán Hà Nội"
+339,BNC,VN000000BNC1,Cổ phiếu Công ty cổ phần Dịch vụ Cáp treo Bà Nà,HOSE,Đại chúng chưa niêm yết,27/02/2017,"BNC: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu BNC từ thị trường niêm yết tại Sở Giao dịch Chứng khoán Tp. Hồ Chí Minh (HOSE) sang thị trường đại chúng chưa niêm yết (ĐCCNY)"
+340,CDG,VN000000CDG1,Cổ phiếu Công ty cổ phần Cầu Đuống,Đại chúng chưa niêm yết,UpCOM,23/02/2017,"CDG: Chuyển dữ liệu đăng ký, lưu ký chứng khoán CDG từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội (HNX)"
+341,CHC,VN000000CHC1,Cổ phiếu Công ty cổ phần Cẩm Hà,Đại chúng chưa niêm yết,UpCOM,14/02/2017,"CHC: Chuyển dữ liệu đăng ký, lưu ký chứng khoán CHC từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội (HNX)"
+342,AC4,VN000000AC42,Cổ phiếu Công ty cổ phần ACC - 244,Đại chúng chưa niêm yết,UpCOM,07/02/2017,"AC4: Chuyển dữ liệu đăng ký, lưu ký chứng khoán AC4 từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội (HNX)"
+343,TQN,VN000000TQN3,Cổ phiếu Công ty cổ phần Thông Quảng Ninh,Đại chúng chưa niêm yết,UpCOM,07/02/2017,"TQN: Chuyển dữ liệu đăng ký, lưu ký chứng khoán TQN từ thị trường ĐCCNY sang thị trường Upcom"
+344,PXC,VN000000PXC0,Cổ phiếu Công ty cổ phần Phát triển Đô thị Dầu khí,HNX,UpCOM,03/02/2017,"PXC: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu PXC từ thị trường HNX sang thị trường UPCOM"
+345,HLB,VN000000HLB4,Cổ phiếu Công ty Cổ phần Bia & Nước giải khát Hạ Long,Đại chúng chưa niêm yết,UpCOM,02/02/2017,"HLB: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu HLB từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội (HNX)"
+346,MVY,VN000000MVY5,Cổ phiếu Công ty cổ phần Môi trường và Dịch vụ Đô thị Vĩnh Yên,Đại chúng chưa niêm yết,UpCOM,20/01/2017,"MVY: Chuyển dữ liệu đăng ký, lưu ký chứng khoán MVY từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội (HNX)"
+347,NAS,VN000000NAS9,Cổ phiếu CTCP Dịch vụ Hàng không Sân bay Nội Bài,Đại chúng chưa niêm yết,UpCOM,20/01/2017,"NAS: Chuyển dữ liệu đăng ký, lưu ký chứng khoán NAS từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội (HNX)"
+348,BRS,VN000000BRS8,Cổ phiếu Công ty cổ phần Dịch vụ Đô thị Bà Rịa,Đại chúng chưa niêm yết,UpCOM,20/01/2017,"BRS: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu BRS từ thị trường Đại chúng chưa niêm yết sang thị trường UPCOM"
+349,BHN,VN000000BHN0,Cổ phiếu Tổng Công ty cổ phần Bia – Rượu – Nước Giải khát Hà Nội,UpCOM,HOSE,16/01/2017,"BHN: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu BHN từ sàn UPCOM sang thị trường niêm yết tại HOSE"
+350,TNI,VN000000TNI0,Cổ phiếu Công ty cổ phần Tập đoàn Thành Nam,HNX,Đại chúng chưa niêm yết,16/01/2017,"TNI: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu TNI từ thị trường HNX sang thị trường Đại chúng chưa niêm yết"
+351,ATA,VN000000ATA4,Cổ Phiếu Công Ty Cổ Phần NTACO,HOSE,UpCOM,08/02/2017,"ATA: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu ATA từ thị trường HOSE sang thị trường UPCOM"
+352,CKH,VN000000CKH4,Cổ phiếu Công ty cổ phần Cơ khí Chế tạo Hải Phòng,UpCOM,UpCOM,11/01/2017,"CKH: Chuyển dữ liệu đăng ký, lưu ký chứng khoán CKH từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội (HNX)"
+353,DCF,VN000000DCF3,Cổ phiếu Công ty cổ phần Xây dựng và Thiết kế số 1,Đại chúng chưa niêm yết,UpCOM,11/01/2017,"DCF: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu DCF từ thị trường Đại chúng chưa niêm yết sang thị trường UPCOM"
+354,PNT,VN000000PNT5,Cổ phiếu CTCP Kỹ thuật Xây dựng Phú Nhuận,Đại chúng chưa niêm yết,UpCOM,10/01/2017,"PNT: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu PNT từ thị trường Đại chúng chưa niêm yết sang thị trường UPCOM"
+355,VEE,VN000000VEE4,Cổ phiếu Công ty cổ phần Thiết bị điện Cẩm Phả,Đại chúng chưa niêm yết,UpCOM,06/01/2017,"VEE: chuyển dữ liệu đăng ký, lưu ký chứng khoán VEE từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội (HNX)"
+356,SID,VN000000SID3,Cổ phiếu Công ty cổ phần Đầu tư Phát triển Sài Gòn Co.op,Đại chúng chưa niêm yết,UpCOM,06/01/2017,"SID: chuyển dữ liệu đăng ký, lưu ký cổ phiếu SID từ thị trường Đại chúng chưa niêm yết sang thị trường UPCOM"
+357,PIC,VN000000PIC1,Cổ phiếu Công ty cổ phần Đầu tư Điện lực 3,UpCOM,HNX,06/01/2017,"PIC: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu PIC từ sàn UPCOM sang thị trường niêm yết tại HNX"
+358,VWS,VN000000VWS6,Cổ phiếu Công ty cổ phần Nước và Môi trường Việt Nam,Đại chúng chưa niêm yết,UpCOM,05/01/2017,"VWS: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu VWS từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch UPCOM"
+359,HVN,VN000000HVN8,Cổ phiếu Tổng Công ty Hàng không Việt Nam - CTCP,Đại chúng chưa niêm yết,UpCOM,30/12/2016,"HVN: Chuyển dữ liệu đăng ký, lưu ký chứng khoán HVN từ thị trường ĐCCNY sang thị trường Upcom"
+360,VGT,VN000000VGT7,Cổ phiếu Tập đoàn Dệt may Việt Nam,Đại chúng chưa niêm yết,UpCOM,28/12/2016,"VGT: Chuyển dữ liệu đăng ký, lưu ký chứng khoán VGT từ thị trường ĐCCNY sang thị trường Upcom"
+361,UPH,VN000000UPH5,Cổ phiếu Công ty cổ phần Dược phẩm TW 25,Đại chúng chưa niêm yết,UpCOM,28/12/2016,"UPH: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu UPH từ thị trường Đại chúng chưa niêm yết sang thị trường UPCOM"
+362,VGC,VN000000VGC3,Cổ phiếu Tổng Công ty Viglacera – CTCP,UpCOM,HNX,21/12/2016,"VGC: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu VGC từ thị trường đăng ký giao dịch UPCoM sang thị trường niêm yết tại HNX"
+363,KHD,VN000000KHD2,"Cổ phiếu Công ty cổ phần Khai thác, Chế biến Khoáng sản Hải Dương",Đại chúng chưa niêm yết,UpCOM,16/12/2016,"KHD: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu KHD từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội (HNX)"
+364,QNS,VN000000QNS5,Cổ phiếu Công ty cổ phần Đường Quảng Ngãi,Đại chúng chưa niêm yết,UpCOM,16/12/2016,"QNS: Chuyển dữ liệu đăng ký, lưu ký chứng khoán QNS từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội (HNX)"
+365,PVP,VN000000PVP6,Cổ phiếu Công ty cổ phần Vận tải Dầu khí Thái Bình Dương,Đại chúng chưa niêm yết,UpCOM,16/12/2016,"PVP: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu PVP từ thị trường Đại chúng chưa niêm yết sang thị trường UPCOM"
+366,NTC,VN000000NTC3,Cổ phiếu Công ty cổ phần Khu Công nghiệp Nam Tân Uyên,Đại chúng chưa niêm yết,UpCOM,15/12/2016,"NTC: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu NTC từ thị trường Đại chúng chưa niêm yết sang thị trường UPCOM"
+367,HEC,VN000000HEC7,Cổ phiếu Công ty cổ phần Tư vấn Xây dựng Thủy Lợi II,Đại chúng chưa niêm yết,UpCOM,19/12/2016,"HEC: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu HEC từ thị trường Đại chúng chưa niêm yết sang thị trường UPCOM"
+368,VCP,VN000000VCP4,Cổ phiếu Công ty cổ phần Xây dựng và Năng lượng VCP,Đại chúng chưa niêm yết,UpCOM,14/12/2016,"VCP: Chuyển dữ liệu đăng ký, lưu ký chứng khoán VCP từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom)"
+369,M26,VN000000M266,Cổ phiếu Công ty cổ phần Đầu tư Kinh doanh và Xây dựng 126,HNX,Đại chúng chưa niêm yết,07/12/2016,"M26: Chuyển dữ liệu đăng ký, lưu ký chứng khoán M26 từ thị trường HNX sang theo dõi tại thị trường Đại chúng chưa niêm yết (ĐCCNY)"
+370,HES,VN000000HES3,Cổ phiếu Công ty cổ phần Dịch vụ Giải trí Hà Nội,Đại chúng chưa niêm yết,UpCOM,06/12/2016,"HES: Chuyển dữ liệu đăng ký, lưu ký chứng khoán HES từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội (HNX)"
+371,RCC,VN000000RCC0,Cổ phiếu Công ty cổ phần Tổng Công ty Công trình Đường sắt,Đại chúng chưa niêm yết,UpCOM,30/11/2016,"RCC: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu RCC từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội (HNX)"
+372,APG,VN000000APG9,Cổ phiếu Công ty cổ phần Chứng khoán APG,HNX,HOSE,29/11/2016,"APG: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu APG từ thị trường HNX sang thị trường HOSE"
+373,CDN,VN000000CDN7,Cổ phiếu Công ty cổ phần Cảng Đà Nẵng,UpCOM,HNX,29/11/2016,"CDN: chuyển dữ liệu đăng ký, lưu ký cổ phiếu CDN từ sàn UPCOM sang thị trường niêm yết tại HNX"
+374,SHA,VN000000SHA1,Cổ phiếu Công ty cổ phần Sơn Hà Sài Gòn,HNX,HOSE,25/11/2016,"SHA: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu SHA từ thị trường HNX sang thị trường HOSE"
+375,SPS,VN000000SPS6,Cổ phiếu Công ty cổ phần Dịch vụ Dầu khí Sài Gòn,UpCOM,Đại chúng chưa niêm yết,24/11/2016,"SPS: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu SPS từ thị trường UPCOM sang thị trường DCCNY"
+376,HPW,VN000000HPW1,Cổ phiếu Công ty cổ phần cấp nước Hải Phòng,Đại chúng chưa niêm yết,UpCOM,17/11/2016,"HPW: chuyển dữ liệu đăng ký, lưu ký chứng khoán HPW từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội (HNX)"
+377,AAA,VN000000AAA4,Cổ phiếu Công ty cổ phần Nhựa An Phát Xanh,HNX,HOSE,22/11/2016,"AAA: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu AAA từ thị trường HNX sang thị trường HOSE"
+378,VWS,VN000000VWS6,Cổ phiếu Công ty cổ phần Nước và Môi trường Việt Nam,UpCOM,Đại chúng chưa niêm yết,11/11/2016,"VWS: Chuyển số liệu đăng ký, lưu ký đối với chứng khoán VWS từ thị trường Upcom sang thị trường ĐCCNY"
+379,IFS,VN000000IFS8,Cổ phiếu CTCP thực phẩm Quốc tế,Đại chúng chưa niêm yết,UpCOM,11/11/2016,"IFS: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu IFS từ thị trường Đại chúng chưa niêm yết sang thị trường UPCOM"
+380,SCR,VN000000SCR6,Cổ phiếu CTCP Địa ốc Sài Gòn Thương Tín,HNX,HOSE,15/11/2016,"SCR: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu SCR từ thị trường HNX sang thị trường HOSE"
+381,VCW,VN000000VCW0,Cổ phiếu Công ty cổ phần Đầu tư Nước sạch Sông Đà,HNX,UpCOM,08/11/2016,"VCW: Chuyển dữ liệu đăng ký, lưu ký chứng khoán VCW từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội (HNX)"
+382,BT1,VN000000BT18,Cổ phiếu CTCP Bảo vệ Thực vật 1 Trung ương,Đại chúng chưa niêm yết,UpCOM,07/11/2016,"BT1: Chuyển dữ liệu đăng ký, lưu ký chứng khoán BT1 từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội (HNX)"
+383,BHN,VN000000BHN0,Cổ phiếu Tổng Công ty cổ phần Bia – Rượu – Nước Giải khát Hà Nội,Đại chúng chưa niêm yết,UpCOM,27/10/2016,"BHN: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu BHN từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom)"
+384,C21,VN000000C218,Cổ phiếu Công ty cổ phần Thế kỷ 21,Đại chúng chưa niêm yết,UpCOM,26/10/2016,"C21: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu C21 từ thị trường Đại chúng chưa niêm yết sang thị trường UPCOM"
+385,BAM,VN000000BAM7,Cổ phiếu Công ty cổ phần Khoáng sản và Luyện kim Bắc Á,HNX,UpCOM,14/11/2016,"BAM: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu BAM từ thị trường HNX sang thị trường UpCOM"
+386,HAC,VN000000HAC5,Cổ phiếu Công ty cổ phần Chứng khoán Hải Phòng,Đại chúng chưa niêm yết,UpCOM,14/10/2016,"HAC: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu HAC từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội (HNX)"
+387,EAD,VN000000EAD0,Cổ phiếu Công ty cổ phần Thủy điện Điện lực Đắk Lắk,Đại chúng chưa niêm yết,UpCOM,27/09/2016,"EAD: Chuyển dữ liệu đăng ký, lưu ký chứng khoán EAD từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội (HNX)"
+388,CHP,VN000000CHP3,Cổ phiếu Công ty cổ phần Thuỷ Điện Miền Trung,HNX,HOSE,27/09/2016,"CHP: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu CHP từ thị trường HNX sang thị trường HOSE"
+389,AUM,VN000000AUM7,Cổ phiếu Công ty cổ phần Vinacafe Sơn Thành,Đại chúng chưa niêm yết,UpCOM,23/09/2016,"AUM: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu AUM từ thị trường Đại chúng chưa niêm yết sang thị trường UPCOM"
+390,QSP,VN000000QSP0,Cổ phiếu Công ty cổ phần Tân Cảng Quy Nhơn,Đại chúng chưa niêm yết,UpCOM,21/09/2016,"QSP: Chuyển dữ liệu đăng ký, lưu ký chứng khoán QSP từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội (HNX)"
+391,VOC,VN000000VOC7,Cổ phiếu Tổng Công ty Công nghiệp dầu thực vật Việt Nam – CTCP,Đại chúng chưa niêm yết,UpCOM,16/09/2016,"VOC: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu VOC từ thị trường Đại chúng chưa niêm yết sang thị trường UPCOM"
+392,HMG,VN000000HMG1,Cổ phiếu Công ty cổ phần Kim khí Hà Nội – VNSTEEL,Đại chúng chưa niêm yết,UpCOM,08/09/2016,"HMG: Chuyển dữ liệu đăng ký, lưu ký chứng khoán HMG từ thị trường ĐCCNY sang thị trường Upcom"
+393,ABG,VN000000ABG9,Cổ phiếu Công ty cổ phần Tập đoàn Đầu tư An Bình,UpCOM,Đại chúng chưa niêm yết,06/09/2016,"ABG: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu ABG từ thị trường UPCOM sang thị trường ĐCCNY"
+394,ABC,VN000000ABC8,Cổ phiếu Công ty cổ phần truyền thông VMG,Đại chúng chưa niêm yết,UpCOM,17/08/2016,"ABC: Chuyển dữ liệu đăng ký, lưu ký chứng khoán ABC từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội (HNX)"
+395,TAD,VN000000TAD8,Cổ phiếu Công ty cổ phần Đầu tư xây dựng và phát triển Trường An,UpCOM,Đại chúng chưa niêm yết,17/08/2016,"TAD: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu TAD từ thị trường đăng ký giao dịch (Upcom) trên Sở Giao dịch Chứng khoán Hà Nội sang thị trường Đại chúng chưa niêm yết"
+396,FDG,VN000000FDG4,Cổ phiếu Công ty cổ phần DOCIMEXCO,Đại chúng chưa niêm yết,UpCOM,18/08/2016,"FDG: chuyển dữ liệu đăng ký, lưu ký cổ phiếu FDG từ thị trường Đại chúng chưa niêm yết sang thị trường UPCOM"
+397,NHG,VN000000NHG9,Cổ phiếu Công ty cổ phần Cấp thoát nước tỉnh Hà Giang,UpCOM,Đại chúng chưa niêm yết,11/08/2016,"NHG: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu NHG từ thị trường HNX sang thị trường ĐCCNY"
+398,TCC,VN000000TCC6,Cổ phiếu Công ty cổ phần TICO,UpCOM,Đại chúng chưa niêm yết,10/08/2016,"TCC: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu TCC từ thị trường UPCOM sang thị trường DCCNY"
+399,LEC,VN000000LEC9,Cổ phiếu Công ty cổ phần Bất động sản điện lực Miền Trung,HNX,Đại chúng chưa niêm yết,28/07/2016,"LEC: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu LEC từ thị trường HNX sang thị trường ĐCCNY"
+400,BVA,VN000000BVA8,Cổ phiếu Công ty cổ phần Sản xuất & Thương mại Bắc Việt,HNX,Đại chúng chưa niêm yết,21/07/2016,"BVA: chuyển dữ liệu đăng ký, lưu ký cổ phiếu BVA từ thị trường HNX sang thị trường Đại chúng chưa niêm yết"
+401,KSS,VN000000KSS7,Cổ phiếu Công ty cổ phần Khoáng sản Na Rì Hamico,HOSE,UpCOM,16/08/2016,"KSS: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu KSS từ thị trường HOSE sang thị trường UPCOM"
+402,DC1,VN000000DC15,Cổ phiếu CTCP Đầu tư Phát triển Xây dựng Số 1,Đại chúng chưa niêm yết,UpCOM,18/07/2016,"DC1: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu DC1 từ thị trường Đại chúng chưa niêm yết sang thị trường UPCOM"
+403,PMJ,VN000000PMJ8,Cổ phiếu Công ty cổ phần Vật tư Bưu điện,Đại chúng chưa niêm yết,UpCOM,27/06/2016,"PMJ: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu PMJ từ thị trường Đại chúng chưa niêm yết sang thị trường UPCOM"
+404,CNN,VN000000CNN6,"Cổ phiếu Công ty cổ phần Tư vấn công nghệ, thiết bị và kiểm định xây dựng - CONINCO",Đại chúng chưa niêm yết,UpCOM,31/05/2016,"CNN: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu CNN từ thị trường ĐCCNY sang thị trường đăng ký giao dịch (Upcom)"
+405,SQC,VN000000SQC8,Cổ phiếu CTCP Khoáng sản Sài Gòn - Quy Nhơn,HNX,UpCOM,23/05/2016,"SQC: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu SQC từ thị trường HNX sang thị trường UPCOM"
+406,GTT,VN000000GTT1,Cổ phiếu Công ty cổ phần Thuận Thảo,HOSE,UpCOM,01/06/2016,"GTT: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu GTT từ thị trường HOSE sang thị trường UPCOM"
+407,VC5,VN000000VC54,Cổ phiếu Công ty cổ phần Xây dựng Số 5,HNX,UpCOM,31/05/2016,"VC5: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu VC5 từ thị trường HNX sang thị trường UPCOM"
+408,TIP,VN000000TIP5,Cổ phiếu CTCP Phát triển Khu công nghiệp Tín Nghĩa,Đại chúng chưa niêm yết,HOSE,29/04/2016,"TIP: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu TIP từ thị trường Đại chúng chưa niêm yết sang sàn HOSE"
+409,DLX,VN000000DLX7,Cổ phiếu Công ty cổ phần Delex Việt Nam,HNX,Đại chúng chưa niêm yết,28/04/2016,"DLX: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu DLX từ thị trường HNX sang thị trường ĐCCNY"
+410,CTN,VN000000CTN3,Cổ phiếu Công ty Cổ phần Xây dựng Công trình ngầm,HNX,UpCOM,23/05/2016,"CTN: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu CTN từ thị trường HNX sang thị trường UpCOM"
+411,S12,VN000000S123,Cổ phiếu Công ty cổ phần Sông Đà 12,HNX,UpCOM,23/05/2016,"S12: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu S12 từ thị trường HNX sang thị trường UpCOM"
+412,SRB,VN000000SRB8,Cổ phiếu Công ty Cổ phần Tập đoàn Sara,HNX,UpCOM,23/05/2016,"SRB: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu SRB từ thị trường HNX sang thị trường UpCOM"
+413,PXL,VN000000PXL1,Cổ phiếu Công ty Cổ phần Đầu tư Khu công nghiệp Dầu khí Long Sơn,HOSE,UpCOM,17/05/2016,"PXL: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu PXL từ thị trường HOSE sang thị trường UpCOM"
+414,MTM,VN000000MTM4,Cổ phiếu Công ty cổ phần Mỏ và Xuất nhập khẩu Khoáng sản Miền Trung,Đại chúng chưa niêm yết,UpCOM,13/04/2016,"MTM: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu MTM từ thị trường đại chúng chưa niêm yết sang thị trường UPCOM"
+415,VLF,VN000000VLF6,Cổ phiếu CTCP Lương thực Thực phẩm Vĩnh Long,HOSE,UpCOM,09/05/2016,"VLF: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu VLF từ thị trường niêm yết tại Sở Giao dịch Chứng khoán TP.HCM sang thị trường UPCOM giao dịch tại Sở Giao dịch Chứng khoán Hà Nội"
+416,HKP,VN000000HKP6,Cổ phiếu Công ty cổ phần Bao bì Hà Tiên,HNX,UpCOM,07/04/2016,"HKP: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu HKP từ thị trường đại chúng chưa niêm yết sang thị trường UPCOM"
+417,DCT,VN000000DCT4,Cổ phiếu CTCP Tấm lợp Vật liệu xây dựng Đồng Nai,Đại chúng chưa niêm yết,UpCOM,06/04/2016,"DCT: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu DCT từ thị trường đại chúng chưa niêm yết sang thị trường UPCOM"
+418,CID,VN000000CID7,Cổ phiếu Công ty cổ phần Xây dựng và Phát triển cơ sở hạ tầng,HNX,UpCOM,05/05/2016,"CID: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu CID từ thị trường HNX sang thị trường UPCOM"
+419,PNG,VN000000PNG2,Cổ phiếu Công ty cổ phần Thương mại Phú Nhuận,Đại chúng chưa niêm yết,UpCOM,30/03/2016,"PNG: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu PNG từ thị trường đại chúng chưa niêm yết sang thị trường UPCOM"
+420,IFC,VN000000IFC2,Cổ phiếu Công ty cổ phần Thực phẩm Công nghệ Sài Gòn,Đại chúng chưa niêm yết,UpCOM,18/03/2016,"IFC: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu IFC từ thị trường Đại chúng chưa niêm yết sang thị trường UPCOM"
+421,DAC,VN000000DAC4,Cổ phiếu Công ty cổ phần Viglacera Đông Anh,HNX,UpCOM,05/04/2016,"DAC: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu DAC từ thị trường HNX sang thị trường UPCOM"
+422,PTK,VN000000PTK1,Cổ phiếu Công ty cổ phần Luyện Kim Phú Thịnh,HOSE,UpCOM,03/03/2016,"PTK: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu PTK từ thị trường HOSE sang thị trường UpCOM"
+423,KTB,VN000000KTB1,Cổ phiếu Công ty cổ phần Đầu tư Khoáng sản Tây Bắc,HOSE,UpCOM,03/03/2016,"KTB: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu KTB từ thị trường HOSE sang thị trường UpCOM"
+424,TCT,VN000000TCT0,Cổ phiếu CTCP Cáp treo Núi Bà Tây Ninh,HNX,HOSE,15/03/2016,"TCT: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu TCT từ thị trường HNX sang thị trường HOSE"
+425,KPF,VN000000KPF0,Cổ phiếu Công ty cổ phần Đầu tư Tài chính Hoàng Minh,Đại chúng chưa niêm yết,HOSE,24/02/2016,"KPF: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu KPF từ sàn Đại chúng chưa niêm yết sang thị trường niêm yết tại HOSE"
+426,RBC,VN000000RBC2,Cổ phiếu Công ty cổ phần Công nghiệp và Xuất nhập khẩu Cao Su,Đại chúng chưa niêm yết,UpCOM,16/02/2016,"RBC: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu RBC từ thị trường Đại chúng chưa niêm yết sang thị trường UPCOM"
+427,CLM,VN000000CLM2,Cổ phiếu Công ty cổ phần Xuất nhập khẩu Than - Vinacomin,Đại chúng chưa niêm yết,HNX,28/01/2016,"CLM: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu CLM từ thị trường Đại chúng chưa niêm yết sang thị trường niêm yết tại HNX"
+428,HU4,VN000000HU43,Cổ phiếu Công ty cổ phần Đầu tư và Xây dựng HUD4,Đại chúng chưa niêm yết,UpCOM,27/01/2016,"HU4: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu HU4 từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội"
+429,TVN,VN000000TVN3,Cổ phiếu Tổng công ty Thép Việt Nam - CTCP,Đại chúng chưa niêm yết,UpCOM,04/01/2016,"TVN: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu TVN từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội"
+430,SCI,VN000000SCI5,Cổ phiếu Công ty cổ phần SCI E&C,UpCOM,HNX,31/12/2015,"SCI: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu SCI từ sàn UPCOM sang thị trường niêm yết tại HNX"
+431,CKG,VN000000CKG6,Cổ phiếu Công ty cổ phần Tập đoàn Tư vấn Đầu tư Xây dựng Kiên Giang,HOSE,Đại chúng chưa niêm yết,30/12/2015,"CKG: Theo dõi số liệu đăng ký, lưu ký đối với chứng khoán chuyển sang quản lý tại sàn DCCNY"
+432,PYU,VN000000PYU0,Cổ phiếu Công ty cổ phần Môi trường và Công trình đô thị Phúc Yên,UpCOM,Đại chúng chưa niêm yết,29/12/2015,"PYU: Theo dõi số liệu đăng ký, lưu ký đối với chứng khoán PYU trên Sở Giao dịch Chứng khoán Hà Nội"
+433,PEQ,VN000000PEQ0,Cổ phiếu Công ty cổ phần Thiết bị xăng dầu Petrolimex,Đại chúng chưa niêm yết,UpCOM,29/12/2015,"PEQ: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu PEQ từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội"
+434,BWS,VN000000BWS8,Cổ phiếu Công ty cổ phần Cấp nước Bà Rịa - Vũng Tàu,UpCOM,Đại chúng chưa niêm yết,18/12/2015,"BWS: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu GT6 từ thị trường UPCOM sang thị trường DCCNY"
+435,XMD,VN000000XMD5,Cổ phiếu CTCP Xuân Mai - Đạo Tú,Đại chúng chưa niêm yết,UpCOM,15/12/2015,"XMD: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu XMD từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch UPCOM tại Sở Giao dịch Chứng khoán Hà Nội"
+436,SGN,VN000000SGN6,Cổ phiếu Công ty cổ phần Phục vụ mặt đất Sài Gòn,Đại chúng chưa niêm yết,UpCOM,04/12/2015,"SGN: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu SGN từ thị trường Đại chúng chưa niêm yết sang thị trường UPCOM"
+437,VTF,VN000000VTF9,Cổ phiếu Công ty Cổ phần Thức ăn chăn nuôi Việt Thắng,HOSE,Đại chúng chưa niêm yết,18/12/2015,"VTF: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu VTF từ thị trường HOSE sang thị trường Đại chúng chưa niêm yết"
+438,KCB,VN000000KCB7,Cổ phiếu Công ty cổ phần Khoáng sản và Luyện kim Cao Bằng,Đại chúng chưa niêm yết,UpCOM,23/11/2015,"KCB: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu KCB từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội (HNX)"
+439,TVM,VN000000TVM5,Cổ phiếu CTCP Tư vấn Đầu tư Mỏ và Công nghiệp - Vinacomin,Đại chúng chưa niêm yết,UpCOM,20/11/2015,"TVM: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu TVM từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) trên Sở Giao dịch Chứng khoán Hà Nội"
+440,NCS,VN000000NCS5,Cổ phiếu Công ty cổ phần Suất ăn Hàng không Nội Bài,Đại chúng chưa niêm yết,UpCOM,19/11/2015,"NCS: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu NCS từ thị trường ĐCCNY sang thị trường đăng ký giao dịch UPCOM"
+441,SGN,VN000000SGN6,Cổ phiếu Công ty cổ phần Phục vụ mặt đất Sài Gòn,HOSE,Đại chúng chưa niêm yết,18/11/2015,"SGN: Theo dõi số liệu đăng ký, lưu ký đối với chứng khoán chuyển sang quản lý tại sàn DCCNY"
+442,VTM,VN000000VTM5,Cổ phiếu Công ty cổ phần Vận tải và Đưa đón thợ mỏ - Vinacomin,Đại chúng chưa niêm yết,UpCOM,30/11/2015,"VTM: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu VTM từ thị trường ĐCCNY sang thị trường Upcom"
+443,ITS,VN000000ITS9,"Cổ phiếu Công ty cổ phần Đầu tư, Thương mại và Dịch vụ - Vinacomin",Đại chúng chưa niêm yết,UpCOM,18/11/2015,"ITS: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu ITS từ thị trường ĐCCNY sang thị trường Upcom"
+444,HU6,VN000000HU68,Cổ phiếu CTCP Đầu tư Phát triển Nhà và Đô thị HUD6,Đại chúng chưa niêm yết,UpCOM,13/11/2015,"HU6: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu HU6 từ thị trường ĐCCNYsang thị trường Upcom"
+445,BVG,VN000000BVG5,Cổ phiếu Công ty cổ phần Đầu tư BVG,Đại chúng chưa niêm yết,UpCOM,12/11/2015,"BVG: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu BVG từ thị trường ĐCCNY sang thị trường UPCOM"
+446,PTD,VN000000PTD6,Cổ phiếu CTCP Thiết kế Xây dựng Thương mại Phúc Thịnh,UpCOM,HNX,06/11/2015,"PTD: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu PTD từ thị trường UPCOM sang thị trường HNX"
+447,BT6,VN000000BT67,Cổ phiếu Công ty cổ phần Beton6,HOSE,Đại chúng chưa niêm yết,02/12/2015,"BT6: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu BT6 từ thị trường HOSE sang thị trường đại chúng chưa niêm yết"
+448,DLT,VN000000DLT5,Cổ phiếu Công ty Cổ phần Du lịch và Thương mại - Vinacomin,Đại chúng chưa niêm yết,UpCOM,30/10/2015,"DLT: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu DLT từ thị trường Đại chúng chưa niêm yết sang thị trường Upcom"
+449,DOP,VN000000DOP7,Cổ phiếu Công ty cổ phần Vận tải Xăng dầu Đồng Tháp,Đại chúng chưa niêm yết,UpCOM,28/10/2015,"DOP: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu DOP từ thị trường Đại chúng chưa niêm yết sang thị trường UPCOM"
+450,SD8,VN000000SD82,Cổ phiếu Công ty Cổ phần Sông Đà 8,Đại chúng chưa niêm yết,UpCOM,21/10/2015,"SD8: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu SD8 từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) tại Sở Giao dịch Chứng khoán Hà Nội"
+451,VLC,VN000000VLC3,Cổ phiếu Tổng Công ty Chăn nuôi Việt Nam - CTCP,Đại chúng chưa niêm yết,UpCOM,20/10/2015,"VLC: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu VLC từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom)"
+452,VMS,VN000000VMS7,Cổ phiếu Công ty cổ phần Phát triển Hàng hải,Đại chúng chưa niêm yết,HNX,08/10/2015,"VMS: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu VMS từ sàn Đại chúng chưa niêm yết sang thị trường niêm yết tại HNX"
+453,CMK,VN000000CMK4,Cổ phiếu Công ty cổ phần Cơ khí Mạo Khê - Vinacomin,Đại chúng chưa niêm yết,UpCOM,30/09/2015,"CMK: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu CMK từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) trên Sở Giao dịch Chứng khoán Hà Nội"
+454,TTP,VN000000TTP2,Cổ phiếu Công ty CP bao bì nhựa Tân Tiến,HOSE,Đại chúng chưa niêm yết,20/10/2015,"TTP: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu TTP từ thị trường HOSE sang thị trường đại chúng chưa niêm yết"
+455,HVN,VN000000HVN8,Cổ phiếu Tổng Công ty Hàng không Việt Nam - CTCP,UpCOM,Đại chúng chưa niêm yết,21/09/2015,"HVN: Theo dõi số liệu đăng ký, lưu ký đối với chứng khoán HVN trên Sở Giao dịch Chứng khoán Hà Nội"
+456,DCD,VN000000DCD8,Cổ phiếu CTCP Du lịch và Thương mại DIC,Đại chúng chưa niêm yết,UpCOM,16/09/2015,"DCD: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu DCD từ thị trường Đại chúng chưa niêm yết sang thị trường UPCOM"
+457,MTM,VN000000MTM4,Cổ phiếu Công ty cổ phần Mỏ và Xuất nhập khẩu Khoáng sản Miền Trung,HNX,Đại chúng chưa niêm yết,11/09/2015,"MTM: Theo dõi số liệu đăng ký, lưu ký đối với chứng khoán MTM trên Sở Giao dịch Chứng khoán Hà Nội"
+458,BCP,VN000000BCP6,Cổ phiếu Công ty Cổ phần Dược Enlie,Đại chúng chưa niêm yết,UpCOM,04/09/2015,"BCP: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu BCP từ thị trường Đại chúng chưa niêm yết sang thị trường UPCOM"
+459,UEM,VN000000UEM9,Cổ phiếu Công ty cổ phần Cơ điện Uông Bí - Vinacomin,Đại chúng chưa niêm yết,UpCOM,03/09/2015,"UEM: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu UEM từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom)"
+460,C21,VN000000C218,Cổ phiếu Công ty cổ phần Thế kỷ 21,HOSE,Đại chúng chưa niêm yết,23/09/2015,"C21: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu C21 từ thị trường HOSE sang thị trường đại chúng chưa niêm yết"
+461,PSG,VN000000PSG1,Cổ phiếu Công ty cổ phần Đầu tư và Xây lắp Dầu khí Sài Gòn,Đại chúng chưa niêm yết,UpCOM,27/08/2015,"PSG: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu PSG từ thị trường Đại chúng chưa niêm yết sang thị trường UPCOM"
+462,G20,VN000000G201,Cổ phiếu Công ty cổ phần Đầu tư Dệt may Vĩnh Phúc,UpCOM,HNX,31/08/2015,"G20: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu G20 từ sàn UPCOM sang thị trường niêm yết tại HNX"
+463,VNP,VN000000VNP1,Cổ phiếu CTCP Nhựa Việt Nam,Đại chúng chưa niêm yết,UpCOM,17/08/2015,"VNP: Chốt số liệu đăng ký, lưu ký đối với chứng khoán chuyển sàn giao dịch từ sàn DCCNY sang sàn UPCOM"
+464,FIT,VN000000FIT6,Cổ phiếu Công ty cổ phần Tập đoàn F.I.T,HNX,HOSE,18/08/2015,"FIT: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu FIT từ thị trường HNX sang thị trường HOSE"
+465,PHH,VN000000PHH2,Cổ phiếu Công ty cổ phần Hồng Hà Việt Nam,HNX,UpCOM,14/08/2015,"PHH: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu PHH từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom)"
+466,VGT,VN000000VGT7,Cổ phiếu Tập đoàn Dệt may Việt Nam,UpCOM,Đại chúng chưa niêm yết,11/08/2015,"VGT: Chuyển dữ liệu đăng ký, lưu ký chứng khoán VGT từ thị trường UPCOM sang thị trường Đại chúng chưa niêm yết (ĐCCNY)"
+467,PHP,VN000000PHP5,Cổ phiếu Công ty cổ phần Cảng Hải Phòng,Đại chúng chưa niêm yết,HNX,10/08/2015,"PHP: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu PHP từ sàn Đại chúng chưa niêm yết sang thị trường niêm yết tại HNX"
+468,KPF,VN000000KPF0,Cổ phiếu Công ty cổ phần Đầu tư Tài chính Hoàng Minh,HNX,Đại chúng chưa niêm yết,03/08/2015,"KPF: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu KPF từ sàn HNX sang thị trường ĐCCNY"
+469,TA9,VN000000TA92,Cổ phiếu Công ty cổ phần Xây lắp Thành An 96,UpCOM,HNX,29/07/2015,"TA9: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu TA9 từ sàn UPCOM sang thị trường niêm yết tại HNX"
+470,GT6,VN000000GT62,Cổ phiếu Tổng Công ty Xây dựng Công trình Giao thông 6 - Công ty cổ phần,UpCOM,Đại chúng chưa niêm yết,29/07/2015,"GT6: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu GT6 từ thị trường Upcom sang thị trường DCCNY"
+471,PID,VN000000PID9,Cổ phiếu Công ty cổ phần Trang trí Nội thất Dầu khí,HNX,UpCOM,28/07/2015,"PID: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu PID từ thị trường niêm yết tại HNX sang thị trường đăng ký giao dịch tại HNX"
+472,VMA,VN000000VMA5,Cổ phiếu Công ty Cổ phần Công nghiệp Ô tô - Vinacomin,Đại chúng chưa niêm yết,UpCOM,04/08/2015,"VMA: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu VMA từ thị trường Đại chúng chưa niêm yết sang thị trường Upcom"
+473,PTE,VN000000PTE4,Cổ phiếu Công ty cổ phần Xi măng Phú Thọ,Đại chúng chưa niêm yết,UpCOM,04/08/2015,"PTE: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu PTE từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom)"
+474,PIC,VN000000PIC1,Cổ phiếu Công ty cổ phần Đầu tư Điện lực 3,Đại chúng chưa niêm yết,UpCOM,03/08/2015,"PIC: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu PIC từ thị trường Đại chúng chưa niêm yết sang thị trường Upcom"
+475,PHH,VN000000PHH2,Cổ phiếu Công ty cổ phần Hồng Hà Việt Nam,HNX,Đại chúng chưa niêm yết,13/08/2015,"PHH: Theo dõi số liệu đăng ký, lưu ký đối với chứng khoán hủy niêm yết trên SGDCK Hà Nội"
+476,PSW,VN000000PSW8,Cổ phiếu Công ty cổ phần Phân bón và Hóa chất dầu khí Tây Nam Bộ,Đại chúng chưa niêm yết,HNX,17/07/2015,"PSW: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu PSW từ thị trường Đại chúng chưa niêm yết sang sàn HNX"
+477,CTT,VN000000CTT0,Cổ phiếu Công ty Cổ phần Chế tạo máy Vinacomin,Đại chúng chưa niêm yết,HNX,16/07/2015,"CTT: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu CTT từ sàn ĐCCNY sang thị trường niêm yết tại HNX"
+478,V15,VN000000V150,Cổ phiếu Công ty cổ phần Xây dựng số 15,Đại chúng chưa niêm yết,UpCOM,20/07/2015,"V15: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu V15 từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch Upcom tại HNX"
+479,MAX,VN000000MAX1,Cổ phiếu Công ty cổ phần Khai Khoáng và Cơ khí Hữu Nghị Vĩnh Sinh,HNX,Đại chúng chưa niêm yết,02/07/2015,"MAX: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu MAX từ thị trường niêm yết tại SGDCK Hà Nội sang thị trường Đại chúng chưa niêm yết"
+480,ISH,VN000000ISH4,Cổ phiếu Công ty cổ phần Thủy điện Srok Phu Miêng IDICO,Đại chúng chưa niêm yết,UpCOM,25/06/2015,"ISH: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu ISH từ thị trường “Đại chúng chưa niêm yết” sang thị trường UPCOM"
+481,MTG,VN000000MTG6,Cổ phiếu Công ty Cổ phần MT GAS,Đại chúng chưa niêm yết,UpCOM,24/06/2015,"MTG: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu MTG từ thị trường ĐCCNY sang thị trường UPCOM"
+482,V15,VN000000V150,Cổ phiếu Công ty cổ phần Xây dựng số 15,HNX,Đại chúng chưa niêm yết,17/07/2015,"V15: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu V15 từ thị trường niêm yết trên Sở GDCK Hà Nội sang thị trường Đại chúng chưa niêm yết"
+483,PPG,VN000000PPG7,Cổ phiếu Công ty Cổ phần Sản xuất Thương mại - Dịch vụ Phú Phong,Đại chúng chưa niêm yết,UpCOM,19/06/2015,"PPG: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu từ thị trường Đại chúng chưa niêm yết sang thị trường UPCOM"
+484,AVF,VN000000AVF9,Cổ phiếu Công ty cổ phần Việt An,Đại chúng chưa niêm yết,UpCOM,16/06/2015,"AVF: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu AVF từ thị trường Đại chúng chưa niêm yết sang thị trường UPCOM"
+485,AMD,VN000000AMD3,Cổ phiếu Công ty cổ phần Đầu tư và Khoáng sản FLC STONE,UpCOM,HOSE,15/06/2015,"AMD: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu từ thị trường đăng ký giao dịch tại HNX sang thị trường niêm yết tại HOSE như sau:"
+486,NT2,VN000000NT22,Cổ phiếu CTCP Điện lực Dầu Khí Nhơn Trạch 2,UpCOM,HOSE,09/06/2015,"NT2: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu từ thị trường UPCOM sang thị trường HOSE"
+487,VST,VN000000VST2,Cổ phiếu CTCP Vận tải và Thuê tàu biển Việt Nam,Đại chúng chưa niêm yết,UpCOM,05/06/2015,"VST: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu VST từ thị trường Đại chúng chưa niêm yết sang thị trường UPCOM"
+488,SSG,VN000000SSG5,Cổ phiếu Công ty cổ phần Vận tải biển Hải Âu,Đại chúng chưa niêm yết,UpCOM,29/05/2015,"SSG: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu SSG từ thị trường Đại chúng chưa niêm yết sang thị trường UPCOM"
+489,LM3,VN000000LM39,Cổ phiếu Công ty Cổ phần LILAMA 3,Đại chúng chưa niêm yết,UpCOM,29/05/2015,"LM3: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu LM3 từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) tại HNX"
+490,SD1,VN000000SD17,Cổ phiếu Công ty cổ phần Sông Đà 1,Đại chúng chưa niêm yết,UpCOM,28/05/2015,"SD1: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu SD1 từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch Upcom"
+491,VPC,VN000000VPC4,Cổ phiếu Công ty cổ phần Đầu tư và Phát triển Năng lượng Việt Nam,Đại chúng chưa niêm yết,UpCOM,28/05/2015,"VPC: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu VPC từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch Upcom"
+492,PTM,VN000000PTM7,"Cổ phiếu Công ty Cổ phần Sản xuất, Thương mại và Dịch vụ ô tô PTM",Đại chúng chưa niêm yết,UpCOM,26/05/2015,"PTM: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu PTM từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch Upcom"
+493,CTM,VN000000CTM5,"Cổ phiếu Công ty cổ phần Đầu tư, Xây dựng và Khai thác mỏ VINAVICO",HNX,Đại chúng chưa niêm yết,17/06/2015,"CTM: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký chứng khoán CTM từ thị trường niêm yết trên Sở GDCK Hà Nội sang thị trường Đại chúng chưa niêm yết"
+494,VNI,VN000000VNI6,Cổ phiếu Công ty CP Đầu tư Bất động sản Việt Nam,Đại chúng chưa niêm yết,UpCOM,21/05/2015,"VNI: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu VNI từ thị trường Đại chúng chưa niêm yết sang thị trường UPCOM"
+495,TSM,VN000000TSM1,Cổ phiếu Công ty Cổ phần Xi măng Tiên Sơn Hà Tây,HNX,Đại chúng chưa niêm yết,17/06/2015,"TSM: Chuyển dữ liệu đăng ký, lưu ký chứng khoán TSM từ thị trường niêm yết trên Sở GDCK Hà Nội sang thị trường Đại chúng chưa niêm yết"
+496,VNN,VN000000VNN6,Cổ phiếu Công ty cổ phần Đầu tư và Thương mại VNN,Đại chúng chưa niêm yết,UpCOM,21/05/2015,"VNN: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu VNN từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) tại HNX"
+497,PPG,VN000000PPG7,Cổ phiếu Công ty Cổ phần Sản xuất Thương mại - Dịch vụ Phú Phong,HNX,Đại chúng chưa niêm yết,26/05/2015,"PPG: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu đối với chứng khoán hủy niêm yết trên SGDCK Hà Nội"
+498,AVF,VN000000AVF9,Cổ phiếu Công ty cổ phần Việt An,HOSE,Đại chúng chưa niêm yết,15/06/2015,"AVF: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu đối với chứng khoán hủy niêm yết trên SGDCK TP.Hồ Chí Minh"
+499,HHA,VN000000HHA4,Cổ phiếu Công ty cổ phần văn phòng phẩm Hồng Hà,Đại chúng chưa niêm yết,UpCOM,19/05/2015,"HHA: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu HHA từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) trên SGDCK Hà Nội"
+500,MTG,VN000000MTG6,Cổ phiếu Công ty Cổ phần MT GAS,HOSE,Đại chúng chưa niêm yết,10/06/2015,"MTG: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu đối với chứng khoán hủy niêm yết trên SGDCK TP.Hồ Chí"
+501,PFL,VN000000PFL8,Cổ phiếu Công ty cổ phần Dầu khí Đông Đô,Đại chúng chưa niêm yết,UpCOM,13/05/2015,"PFL: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký cổ phiếu PFL từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) trên Sở Giao dịch Chứng khoán Hà Nội"
+502,SGR,VN000000SGR7,Cổ phiếu Công ty cổ phần Địa ốc Sài Gòn,Đại chúng chưa niêm yết,UpCOM,08/05/2015,"SGR: Thông báo về việc chốt số liệu đăng ký, lưu ký, bù trừ và thanh toán đối với chứng khoán chuyển sàn giao dịch từ DCCNY sang UPCOM"
+503,BVG,VN000000BVG5,Cổ phiếu Công ty cổ phần Đầu tư BVG,HNX,Đại chúng chưa niêm yết,26/05/2015,"BVG: Thông báo về việc theo dõi số liệu đăng ký, lưu ký đối với chứng khoán hủy niêm yết trên Sở Giao dịch Chứng khoán Hà Nội"
+504,HSI,VN000000HSI4,Cổ phiếu CTCP Vật tư tổng hợp và Phân bón Hoá sinh,Đại chúng chưa niêm yết,UpCOM,06/05/2015,"HSI: Thông báo về việc chốt số liệu đăng ký, lưu ký, bù trừ và thanh toán đối với chứng khoán chuyển sàn giao dịch từ DCCNY sang UPCOM"
+505,VNN,VN000000VNN6,Cổ phiếu Công ty cổ phần Đầu tư và Thương mại VNN,HNX,Đại chúng chưa niêm yết,20/05/2015,"VNN: Thông báo về việc thực hiện chuyển dữ liệu đăng ký, lưu ký chứng khoán VNN từ thị trường niêm yết trên Sở GDCK Hà Nội sang thị trường Đại chúng chưa niêm yết"
+506,VPC,VN000000VPC4,Cổ phiếu Công ty cổ phần Đầu tư và Phát triển Năng lượng Việt Nam,HNX,Đại chúng chưa niêm yết,20/05/2015,"VPC: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu VPC từ thị trường niêm yết trên Sở GDCK Hà Nội sang thị trường Đại chúng chưa niêm yết"
+507,LM3,VN000000LM39,Cổ phiếu Công ty Cổ phần LILAMA 3,HNX,Đại chúng chưa niêm yết,20/05/2015,"LM3: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu LM3 từ thị trường niêm yết trên Sở GDCK Hà Nội sang thị trường Đại chúng chưa niêm yết"
+508,PTM,VN000000PTM7,"Cổ phiếu Công ty Cổ phần Sản xuất, Thương mại và Dịch vụ ô tô PTM",HNX,Đại chúng chưa niêm yết,20/05/2015,"PTM: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu PTM từ thị trường niêm yết trên Sở GDCK Hà Nội sang thị trường Đại chúng chưa niêm yết"
+509,SD1,VN000000SD17,Cổ phiếu Công ty cổ phần Sông Đà 1,HNX,Đại chúng chưa niêm yết,20/05/2015,"SD1: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu SD1 từ thị trường niêm yết trên Sở GDCK Hà Nội sang thị trường Đại chúng chưa niêm yết"
+510,SSG,VN000000SSG5,Cổ phiếu Công ty cổ phần Vận tải biển Hải Âu,HNX,Đại chúng chưa niêm yết,20/05/2015,"SSG: Thông báo về việc theo dõi số liệu đăng ký, lưu ký đối với chứng khoán hủy niêm yết trên SGDCK Sở giao dịch Chứng khoán Hà Nội"
+511,BTH,VN000000BTH7,Cổ phiếu CTCP Chế tạo Biến thế và Vật liệu điện Hà Nội,HNX,Đại chúng chưa niêm yết,12/05/2015,"BTH: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu BTH từ thị trường niêm yết trên Sở GDCK Hà Nội sang thị trường Đại chúng chưa niêm yết"
+512,NVN,VN000000NVN6,Cổ phiếu Công ty cổ phần Nhà Việt Nam,HOSE,Đại chúng chưa niêm yết,08/05/2015,"NVN: Thông báo về việc theo dõi số liệu đăng ký, lưu ký đối với chứng khoán hủy niêm yết trên SGDCK TP.Hồ Chí Minh"
+513,VST,VN000000VST2,Cổ phiếu CTCP Vận tải và Thuê tàu biển Việt Nam,HOSE,Đại chúng chưa niêm yết,13/05/2015,"VST: Thông báo về việc theo dõi số liệu đăng ký, lưu ký đối với chứng khoán hủy niêm yết trên SGDCK TP.Hồ Chí Minh"
+514,DCT,VN000000DCT4,Cổ phiếu CTCP Tấm lợp Vật liệu xây dựng Đồng Nai,HOSE,Đại chúng chưa niêm yết,13/05/2015,"DCT: Thông báo về việc theo dõi số liệu đăng ký, lưu ký đối với chứng khoán hủy niêm yết trên SGDCK TP.Hồ Chí Minh"
+515,VT8,VN000000VT89,Cổ phiếu Công ty cổ phần Dịch vụ vận tải ô tô Số 8,Đại chúng chưa niêm yết,UpCOM,07/04/2015,"VT8: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu VT8 từ thị trường Đại chúng chưa niêm yết sang thị trường đăng ký giao dịch (Upcom) trên Sở GDCK Hà Nội"
+516,PFL,VN000000PFL8,Cổ phiếu Công ty cổ phần Dầu khí Đông Đô,HNX,Đại chúng chưa niêm yết,05/05/2015,"PFL: Thông báo về việc theo dõi số liệu đăng ký, lưu ký đối với chứng khoán hủy niêm yết trên Sở Giao dịch Chứng khoán Hà Nội"
+517,VNI,VN000000VNI6,Cổ phiếu Công ty CP Đầu tư Bất động sản Việt Nam,HOSE,Đại chúng chưa niêm yết,05/05/2015,"VNI: Thông báo về việc theo dõi số liệu đăng ký, lưu ký đối với chứng khoán hủy niêm yết trên SGDCK TP.Hồ Chí Minh"
+518,BHC,VN000000BHC3,Cổ phiếu Công ty Cổ phần Bê tông Biên Hòa,Đại chúng chưa niêm yết,UpCOM,01/04/2015,"BHC: Thông báo về việc chốt số liệu đăng ký, lưu ký đối với chứng khoán chuyển sàn giao dịch từ sàn DCCNY sang sàn UPCOM"
+519,HSI,VN000000HSI4,Cổ phiếu CTCP Vật tư tổng hợp và Phân bón Hoá sinh,HOSE,Đại chúng chưa niêm yết,04/05/2015,"HSI: Thông báo về việc theo dõi số liệu đăng ký, lưu ký đối với chứng khoán hủy niêm yết trên SGDCK Hồ Chí Minh"
+520,HLA,VN000000HLA6,Cổ phiếu công ty cổ phần Hữu Liên á Châu,Đại chúng chưa niêm yết,UpCOM,30/03/2015,"HLA: Thông báo về việc chốt số liệu đăng ký, lưu ký đối với chứng khoán chuyển sàn giao dịch từ sàn DCCNY sang sàn UPCOM"
+521,NNG,VN000000NNG7,Cổ phiếu Công ty cổ phần Công nghiệp - Dịch vụ - Thương mại Ngọc Nghĩa,Đại chúng chưa niêm yết,UpCOM,23/03/2015,"NNG: Thông báo về việc chốt số liệu đăng ký, lưu ký đối với chứng khoán chuyển sàn giao dịch từ sàn DCCNY sang sàn UPCOM"
+522,PSE,VN000000PSE6,Cổ phiếu Công ty cổ phần Phân bón và Hóa chất dầu khí Đông Nam Bộ,Đại chúng chưa niêm yết,HNX,16/03/2015,"PSE: Thông báo về việc chốt số liệu đăng ký, lưu ký, bù trừ và thanh toán đối với chứng khoán chuyển sàn giao dịch từ DCCNY sang HNX"
+523,CNT,VN000000CNT3,Cổ phiếu CTCP Xây dựng và Kinh doanh vật tư,Đại chúng chưa niêm yết,UpCOM,17/03/2015,"CNT: Thông báo về việc chốt số liệu đăng ký, lưu ký, bù trừ và thanh toán, chuyển quyền sở hữu đối với chứng khoán chuyển sàn giao dịch từ DCCNY sang UPCOM"
+524,VES,VN000000VES4,Cổ phiếu Công ty cổ phần Đầu tư và Xây dựng điện Mêca Vneco,Đại chúng chưa niêm yết,UpCOM,13/03/2015,"VES: Thông báo về việc chốt số liệu đăng ký, lưu ký đối với chứng khoán chuyển sàn giao dịch từ sàn DCCNY sang sàn UPCOM"
+525,SD3,VN000000SD33,Cổ phiếu Công ty Cổ phần Sông Đà 3,Đại chúng chưa niêm yết,UpCOM,23/12/2013,SD3: Thông báo báo chuyển sàn
+526,DHD,VN000000DHD7,Cổ phiếu CTCP Dược Vật tư Y tế Hải Dương,UpCOM,Đại chúng chưa niêm yết,11/09/2013,DHD: Thông báo báo chuyển sàn
+527,HU4,VN000000HU43,Cổ phiếu Công ty cổ phần Đầu tư và Xây dựng HUD4,HOSE,Đại chúng chưa niêm yết,14/12/2012,HU4: Thông báo báo chuyển sàn
+528,SME,VN000000SME3,Cổ phiếu CTCP Chứng khoán SME,HNX,Đại chúng chưa niêm yết,31/10/2012,SME: Thông báo báo chuyển sàn
+529,MPC,VN000000MPC3,Cổ phiếu CTCP Tập đoàn Thủy sản Minh Phú,HOSE,Đại chúng chưa niêm yết,03/04/2015,"MPC: Thông báo về việc theo dõi số liệu đăng ký, lưu ký đối với chứng khoán hủy niêm yết trên SGDCK TP.Hồ Chí Minh"
+530,CSG,VN000000CSG9,Cổ phiếu CTCP Cáp Sài Gòn,HOSE,Đại chúng chưa niêm yết,08/10/2012,CSG: Thông báo báo chuyển sàn
+531,BAS,VN000000BAS4,Cổ phiếu công ty cổ phần BASA,HOSE,Đại chúng chưa niêm yết,08/10/2012,BAS: Thông báo báo chuyển sàn
+532,VTE,VN000000VTE2,Cổ phiếu Công ty cổ phần Viễn thông Điện tử VINACAP,HNX,Đại chúng chưa niêm yết,05/10/2012,VTE: Thông báo báo chuyển sàn
+533,MED,VN000000MED5,Cổ phiếu Công ty cổ phần Dược Trung ương Mediplantex,HNX,Đại chúng chưa niêm yết,08/08/2012,MED: Thông báo báo chuyển sàn
+534,VMG,VN000000VMG2,Cổ phiếu CTCP Thương mại và dịch vụ dầu khí Vũng Tàu,HNX,Đại chúng chưa niêm yết,02/08/2012,VMG: Thông báo báo chuyển sàn
+535,AGC,VN000000AGC7,Cổ phiếu Công ty Cổ phần Cà phê An Giang,HNX,Đại chúng chưa niêm yết,19/07/2012,AGC: Thông báo báo chuyển sàn
+536,PXH,VN000000PXH9,Cổ phiếu Công ty cổ phần Xây lắp Dầu khí Hà Nội,HNX,Đại chúng chưa niêm yết,19/07/2012,PXH: Thông báo báo chuyển sàn
+537,DCC,VN000000DCC0,Cổ phiếu CTCP Xây dựng công nghiệp,HOSE,Đại chúng chưa niêm yết,06/06/2012,DCC: Thông báo báo chuyển sàn
+538,MCV,VN000000MCV1,Cổ phiếu Công ty cổ phần Cavico Việt Nam khai thác mỏ và xây dựng,HOSE,Đại chúng chưa niêm yết,19/07/2012,MCV: Thông báo báo chuyển sàn
+539,MKP,VN000000MKP6,Cổ phiếu CTCP Hóa - Dược phẩm Mekophar,HOSE,Đại chúng chưa niêm yết,16/07/2012,MKP: Thông báo báo chuyển sàn
+540,CAD,VN000000CAD4,Cổ phiếu CTCP chế biến và XNK thuỷ sản Cadovimex,HOSE,Đại chúng chưa niêm yết,06/06/2012,CAD: Thông báo báo chuyển sàn
+541,DVD,VN000000DVD8,Cổ phiếu CTCP Dược phẩm Viễn Đông,HOSE,Đại chúng chưa niêm yết,13/09/2011,DVD: Thông báo báo chuyển sàn
+542,TRI,VN000000TRI1,Cổ phiếu Công ty Cổ phần Nước Giải khát Sài Gòn,HOSE,Đại chúng chưa niêm yết,16/05/2012,TRI: Thông báo báo chuyển sàn
+543,FPC,VN000000FPC7,Cổ Phiếu CTCP FULL POWER,HOSE,Đại chúng chưa niêm yết,15/08/2011,FPC: Thông báo báo chuyển sàn
+544,WEB,VN000000WEB8,Cổ phiếu Ngân hàng Thương mại cổ phần Phương Tây,HOSE,Đại chúng chưa niêm yết,15/07/2011,WEB: Thông báo báo chuyển sàn
+545,BBT,VN000000BBT0,Cổ phiếu Công ty cổ phần Bông Bạch Tuyết,HOSE,Đại chúng chưa niêm yết,05/07/2011,BBT: Thông báo báo chuyển sàn
+546,NHW,VN000000NHW6,Cổ phiếu Công ty cổ phần NGÔ HAN,HOSE,Đại chúng chưa niêm yết,02/03/2015,"NHW: Thông báo về việc theo dõi số liệu đăng ký, lưu ký đối với chứng khoán hủy niêm yết trên SGDCK TP.Hồ Chí Minh"
+547,SBC,VN000000SBC0,Cổ phiếu CTCP Vận tải và Giao nhận Bia Sài Gòn,HOSE,Đại chúng chưa niêm yết,25/02/2015,"SBC: Theo dõi số liệu đăng ký, lưu ký đối với chứng khoán hủy niêm yết trên SGDCK TP.Hồ Chí Minh"
+548,HLA,VN000000HLA6,Cổ phiếu công ty cổ phần Hữu Liên á Châu,HOSE,Đại chúng chưa niêm yết,25/02/2015,"HLA: Theo dõi số liệu đăng ký, lưu ký đối với chứng khoán hủy niêm yết trên SGDCK TP.Hồ Chí Minh"
+549,DBF,VN000000DBF5,Cổ phiếu Công ty cổ phần Lương thực Đông Bắc,UpCOM,Đại chúng chưa niêm yết,22/01/2015,"DBF: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu DBF từ thị trường đăng ký giao dịch trên Sở GDCK Hà Nội sang thị trường Đại chúng chưa niêm yết"
+550,BCP,VN000000BCP6,Cổ phiếu Công ty Cổ phần Dược Enlie,UpCOM,Đại chúng chưa niêm yết,12/01/2015,"BCP: Chốt số liệu đăng ký, lưu ký, bù trừ và thanh toán đối với chứng khoán chuyển sàn giao dịch từ UPCOM sang Đại chúng chưa niêm yết"
+551,TCO,VN000000TCO1,Cổ phiếu CTCP Vận tải Đa phương thức Duyên Hải,UpCOM,HOSE,20/12/2011,TCO: Thông báo chuyển sàn
+552,HU1,VN000000HU19,Cổ phiếu CTCP Đầu tư và Xây dựng HUD1,UpCOM,HOSE,02/11/2011,HU1: Thông báo chuyển sàn
+553,HPR,VN000000HPR1,Cổ phiếu Công ty cổ phần Đầu tư Xây dựng Hồng Phát,HNX,Đại chúng chưa niêm yết,07/05/2013,HPR: Thông báo chuyển sàn
+554,PDN,VN000000PDN9,Cổ phiếu CTCP Cảng Đồng Nai,UpCOM,HOSE,29/08/2011,PDN: Thông báo chuyển sàn
+555,PPP,VN000000PPP8,Cổ phiếu CTCP Dược phẩm Phong Phú,UpCOM,HNX,15/07/2011,PPP: Thông báo chuyển sàn
+556,STL,VN000000STL3,Cổ phiếu Công ty cổ phần Sông Đà - Thăng Long,HNX,Đại chúng chưa niêm yết,01/08/2013,STL: Thông báo chuyển sàn
+557,ACC,VN000000ACC6,Cổ phiếu Công ty cổ phần Đầu tư và Xây dựng Bình Dương ACC,UpCOM,HOSE,29/06/2011,ACC: Thông báo chuyển sàn
+558,NTB,VN000000NTB5,Cổ phiếu CTCP Đầu tư xây dựng và Khai thác công trình giao thông 584,HOSE,Đại chúng chưa niêm yết,26/07/2013,NTB: Thông báo chuyển sàn
+559,SCC,VN000000SCC8,Cổ phiếu Công ty cổ phần Đầu tư thương mại Hưng Long tỉnh Hòa Bình,HNX,Đại chúng chưa niêm yết,27/05/2013,SCC: Thông báo chuyển sàn
+560,SDJ,VN000000SDJ1,Cổ phiếu Công ty Cổ phần Sông Đà 25,HNX,Đại chúng chưa niêm yết,24/05/2013,SDJ: Thông báo chuyển sàn
+561,SVS,VN000000SVS4,Cổ phiếu Công ty Cổ phần Chứng khoán Sao Việt,HNX,Đại chúng chưa niêm yết,15/05/2013,SVS: Thông báo chuyển sàn
+562,SVS,VN000000SVS4,Cổ phiếu Công ty Cổ phần Chứng khoán Sao Việt,UpCOM,HNX,06/07/2010,SVS: Thông báo chuyển sàn
+563,S27,VN000000S271,Cổ phiếu Công ty cổ phần Sông Đà 27,HNX,Đại chúng chưa niêm yết,22/05/2013,S27: Thông báo chuyển sàn
+564,BID10904,VN0BID109040,Trái phiếu dài hạn Ngân hàng TMCP Đầu tư và Phát triển Việt Nam đợt 1/2009,Trái phiếu chuyên biệt,HNX,28/05/2010,BID10904: Thông báo chuyển sàn
+565,DDM,VN000000DDM7,Cổ phiếu công ty cổ phần Hàng Hải Đông Đô,HOSE,Đại chúng chưa niêm yết,15/04/2013,DDM: Thông báo chuyển sàn
+566,SBS,VN000000SBS6,Cổ phiếu CTCP Chứng khoán Ngân hàng Sài Gòn - Thương Tín,HNX,Đại chúng chưa niêm yết,27/03/2013,SBS: Thông báo chuyển sàn
+567,PXM,VN000000PXM9,Cổ phiếu Công ty cổ phần Xây lắp Dầu khí Miền Trung,HOSE,Đại chúng chưa niêm yết,20/05/2014,PXM: Thông báo chuyển sàn
+568,DTC,VN000000DTC4,Cổ phiếu CTCP Viglacera Đông Triều,HNX,Đại chúng chưa niêm yết,27/03/2013,DTC: Thông báo chuyển sàn
+569,PVA,VN000000PVA8,Cổ phiếu Công ty cổ phần Tổng công ty Xây lắp Dầu khí Nghệ An,HNX,Đại chúng chưa niêm yết,12/06/2014,PVA: Thông báo chuyển sàn
+570,SJM,VN000000SJM2,Cổ phiếu Công ty Cổ phần Sông Đà 19,Đại chúng chưa niêm yết,UpCOM,27/05/2014,SJM: Thông báo chuyển sàn
+571,TAS,VN000000TAS6,Cổ phiếu Công ty cổ phần Chứng Khoán Tràng An,HNX,Đại chúng chưa niêm yết,26/09/2013,TAS: Thông báo chuyển sàn
+572,SJM,VN000000SJM2,Cổ phiếu Công ty Cổ phần Sông Đà 19,HNX,Đại chúng chưa niêm yết,05/05/2014,SJM: Thông báo chuyển sàn
+573,CIC,VN000000CIC9,Cổ phiếu Công ty Cổ phần Đầu tư và Xây dựng (Cotec),HNX,Đại chúng chưa niêm yết,25/09/2013,CIC: Thông báo chuyển sàn
+574,HPB,VN000000HPB5,Cổ phiếu Công ty cổ phần Bao Bì PP,HNX,Đại chúng chưa niêm yết,19/09/2013,HPB: Thông báo chuyển sàn
+575,PIC,VN000000PIC1,Cổ phiếu Công ty cổ phần Đầu tư Điện lực 3,UpCOM,Đại chúng chưa niêm yết,23/10/2013,PIC: Thông báo chuyển sàn
+576,MCL,VN000000MCL2,Cổ phiếu Công ty cổ phần Phát triển nhà và Sản xuát vật liệu xây dựng Chí linh,HNX,Đại chúng chưa niêm yết,28/10/2013,MCL: Thông báo chuyển sàn
+577,GBS,VN000000GBS1,Cổ phiếu Công ty Cổ phần Chứng khoán Golden Bridge Việt Nam,HNX,Đại chúng chưa niêm yết,28/10/2013,GBS: Thông báo chuyển sàn
+578,AGD,VN000000AGD5,Cổ phiếu Công ty cổ phần Gò Đàng,HOSE,Đại chúng chưa niêm yết,30/08/2013,AGD: Thông báo chuyển sàn
+579,DHI,VN000000DHI6,Cổ phiếu CTCP In Diên Hồng,HNX,Đại chúng chưa niêm yết,30/10/2013,DHI: Thông báo chuyển sàn
+580,DCD,VN000000DCD8,Cổ phiếu CTCP Du lịch và Thương mại DIC,UpCOM,Đại chúng chưa niêm yết,06/08/2013,DCD: Thông báo chuyển sàn
+581,MIH,VN000000MIH7,Cổ phiếu CTCP XNK Khoáng sản Hà Nam,HNX,Đại chúng chưa niêm yết,05/08/2013,MIH: Thông báo chuyển sàn
+582,STL,VN000000STL3,Cổ phiếu Công ty cổ phần Sông Đà - Thăng Long,Đại chúng chưa niêm yết,UpCOM,11/11/2013,STL: Thông báo chuyển sàn
+583,FLC,VN000000FLC6,Cổ phiếu Công ty cổ phần Tập đoàn FLC,HNX,HOSE,02/08/2013,FLC: Thông báo chuyển sàn
+584,XMC,VN000000XMC7,Cổ phiếu Công ty cổ phần Đầu tư và Xây dựng Xuân Mai,HNX,Đại chúng chưa niêm yết,15/11/2013,XMC: Thông báo chuyển sàn
+585,HPB,VN000000HPB5,Cổ phiếu Công ty cổ phần Bao Bì PP,Đại chúng chưa niêm yết,UpCOM,06/12/2013,HPB: Thông báo chuyển sàn
+586,CLS,VN000000CLS9,Cổ phiếu Công ty Cổ phần Chứng khoán Chợ Lớn,UpCOM,Đại chúng chưa niêm yết,23/07/2013,CLS: Thông báo chuyển sàn
+587,KBT,VN000000KBT1,Cổ phiếu CTCP Gạch ngói Kiên Giang,HNX,Đại chúng chưa niêm yết,06/12/2013,KBT: Thông báo chuyển sàn
+588,GFC,VN000000GFC6,Cổ phiếu Công ty Cổ phần Sản xuất Thương mại Dịch vụ GFC,HNX,Đại chúng chưa niêm yết,23/07/2013,GFC: Thông báo chuyển sàn
+589,CTV,VN000000CTV6,Cổ phiếu Công ty cổ phần Đầu tư - sản xuất và Thương mại Việt Nam,HNX,Đại chúng chưa niêm yết,25/12/2013,CTV: Thông báo chuyển sàn
+590,THV,VN000000THV5,Cổ phiếu Công ty cổ phần Tập đoàn Thái Hoà Việt Nam,HNX,Đại chúng chưa niêm yết,08/07/2013,THV: Thông báo chuyển sàn
+591,PHS,VN000000PHS9,Cổ phiếu Công ty Cổ phần Chứng khoán Phú Hưng,HNX,Đại chúng chưa niêm yết,14/01/2014,PHS: Thông báo chuyển sàn
+592,HBD,VN000000HBD1,Cổ phiếu Công ty cổ phần Bao bì PP Bình Dương,Đại chúng chưa niêm yết,UpCOM,13/09/2013,HBD: Thông báo chuyển sàn
+593,NTB,VN000000NTB5,Cổ phiếu CTCP Đầu tư xây dựng và Khai thác công trình giao thông 584,Đại chúng chưa niêm yết,UpCOM,15/01/2014,NTB: Thông báo chuyển sàn
+594,HBD,VN000000HBD1,Cổ phiếu Công ty cổ phần Bao bì PP Bình Dương,HNX,Đại chúng chưa niêm yết,22/07/2013,HBD: Thông báo chuyển sàn
+595,KSK,VN000000KSK4,Cổ phiếu Công ty cổ phần Khoáng sản luyện kim màu,HOSE,HNX,07/02/2014,KSK: Thông báo chuyển sàn
+596,FBT,VN000000FBT1,Cổ phiếu CTCP XNK Lâm thủy sản Bến Tre,HOSE,Đại chúng chưa niêm yết,19/06/2013,FBT: Thông báo chuyển sàn
+597,NIS,VN000000NIS2,Cổ phiếu CTCP Dịch vụ hạ tầng mạng,HNX,Đại chúng chưa niêm yết,21/03/2014,NIS: Thông báo chuyển sàn
+598,CHP,VN000000CHP3,Cổ phiếu Công ty cổ phần Thuỷ Điện Miền Trung,UpCOM,HNX,15/04/2014,CHP: Thông báo chuyển sàn
+599,VSG,VN000000VSG9,Cổ phiếu CTCP CONTAINER Phía Nam,Đại chúng chưa niêm yết,UpCOM,18/06/2013,VSG: Thông báo chuyển sàn
+600,SBS,VN000000SBS6,Cổ phiếu CTCP Chứng khoán Ngân hàng Sài Gòn - Thương Tín,Đại chúng chưa niêm yết,UpCOM,25/04/2014,SBS: Thông báo chuyển sàn
+601,VSG,VN000000VSG9,Cổ phiếu CTCP CONTAINER Phía Nam,HOSE,Đại chúng chưa niêm yết,07/05/2013,VSG: Thông báo chuyển sàn
+602,TLT,VN000000TLT1,Cổ phiếu Công ty cổ phần Viglacera Thăng Long,Đại chúng chưa niêm yết,UpCOM,14/06/2013,TLT: Thông báo chuyển sàn
+603,TLT,VN000000TLT1,Cổ phiếu Công ty cổ phần Viglacera Thăng Long,HNX,Đại chúng chưa niêm yết,05/03/2013,TLT: Thông báo chuyển sàn
+604,VFC,VN000000VFC5,Cổ Phiếu CTCP VINAFCO,Đại chúng chưa niêm yết,UpCOM,12/06/2013,VFC: Thông báo chuyển sàn
+605,AVS,VN000000AVS2,Cổ phiếu CTCP chứng khoán Âu Việt,HNX,Đại chúng chưa niêm yết,07/06/2013,AVS: Thông báo chuyển sàn
+606,HSM,VN000000HSM6,Cổ phiếu Tổng Công ty Cổ phần Dệt May Hà Nội,UpCOM,Đại chúng chưa niêm yết,31/05/2013,HSM: Thông báo chuyển sàn
+607,HHL,VN000000HHL1,Cổ phiếu CTCP Hồng Hà Long An,HNX,Đại chúng chưa niêm yết,12/05/2014,HHL: Thông báo chuyển sàn
+608,SHC,VN000000SHC7,Cổ phiếu CTCP Hàng Hải Sài Gòn,HNX,Đại chúng chưa niêm yết,24/05/2013,SHC: Thông báo chuyển sàn
+609,VCH,VN000000VCH1,Cổ phiếu Công ty cổ phần Đầu tư Xây dựng và Phát triển Hạ tầng Vinaconex,HNX,Đại chúng chưa niêm yết,23/05/2013,VCH: Thông báo chuyển sàn
+610,TIP,VN000000TIP5,Cổ phiếu CTCP Phát triển Khu công nghiệp Tín Nghĩa,HOSE,Đại chúng chưa niêm yết,23/05/2013,TIP: Thông báo chuyển sàn
+611,TLC,VN000000TLC7,Cổ phiếu CTCP Viễn thông Thăng Long,HNX,Đại chúng chưa niêm yết,22/05/2013,TLC: Thông báo chuyển sàn
+612,LMR,VN000000LMR0,Cổ phiếu Công ty cổ phần Liên Minh,HOSE,Đại chúng chưa niêm yết,15/05/2013,LMR: Thông tin chuyển sàn
+613,SD8,VN000000SD82,Cổ phiếu Công ty Cổ phần Sông Đà 8,HNX,Đại chúng chưa niêm yết,15/05/2013,SD8: Thông báo chuyển sàn
+614,MMC,VN000000MMC0,cổ phiếu Công ty Cổ phần Khoáng sản Mangan,HNX,Đại chúng chưa niêm yết,13/05/2014,MMC: Thông báo chuyển sàn
+615,IFS,VN000000IFS8,Cổ phiếu CTCP thực phẩm Quốc tế,HOSE,Đại chúng chưa niêm yết,07/05/2013,IFS: Thông tin chuyển sàn
+616,CLP,VN000000CLP5,Cổ phiếu Công ty cổ phần Thủy sản Cửu Long,HOSE,Đại chúng chưa niêm yết,20/05/2014,CLP: Thông báo chuyển sàn
+617,CNT,VN000000CNT3,Cổ phiếu CTCP Xây dựng và Kinh doanh vật tư,HOSE,Đại chúng chưa niêm yết,20/05/2014,CNT: Thông báo chuyển sàn
+618,FDG,VN000000FDG4,Cổ phiếu Công ty cổ phần DOCIMEXCO,HOSE,Đại chúng chưa niêm yết,20/05/2014,FDG: Thông báo chuyển sàn
+619,VES,VN000000VES4,Cổ phiếu Công ty cổ phần Đầu tư và Xây dựng điện Mêca Vneco,HOSE,Đại chúng chưa niêm yết,07/05/2013,VES: Thông tin chuyển sàn
+620,BHV,VN000000BHV3,Cổ phiếu Công ty cổ phần Bá Hiến,HNX,Đại chúng chưa niêm yết,23/05/2014,BHV: Thông báo chuyển sàn
+621,VCV,VN000000VCV2,Cổ phiếu Công ty cổ phần Vận tải Vinaconex,HNX,Đại chúng chưa niêm yết,23/05/2014,VCV: Thông báo chuyển sàn
+622,VHH,VN000000VHH0,Cổ phiếu Công ty cổ phần Đầu tư Kinh doanh nhà Thành Đạt,HNX,Đại chúng chưa niêm yết,28/05/2014,VHH: Thông báo chuyển sàn
+623,MLG,VN000000MLG3,Cổ phiếu Công ty cổ phần Tập đoàn Mai Linh,UpCOM,Đại chúng chưa niêm yết,26/04/2013,MLG: Thông báo chuyển sàn
+624,GGG,VN000000GGG5,Cổ phiếu Công ty cổ phần Ô tô Giải Phóng,HNX,Đại chúng chưa niêm yết,28/05/2014,GGG: Thông báo chuyển sàn
+625,DTH,VN000000DTH3,Cổ phiếu CTCP Dược – Vật tư Y tế Thanh Hóa,UpCOM,Đại chúng chưa niêm yết,23/04/2013,DTH: Thông báo chuyển sàn
+626,QCC,VN000000QCC2,Cổ phiếu Công ty Cổ phần Đầu tư Xây dựng và Phát triển hạ tầng Viễn thông,HNX,Đại chúng chưa niêm yết,29/05/2014,QCC: Thông báo chuyển sàn
+627,DTC,VN000000DTC4,Cổ phiếu CTCP Viglacera Đông Triều,Đại chúng chưa niêm yết,UpCOM,05/04/2013,DTC: Thông báo chuyển sàn
+628,BHC,VN000000BHC3,Cổ phiếu Công ty Cổ phần Bê tông Biên Hòa,HNX,Đại chúng chưa niêm yết,29/05/2014,BHC: Thông báo chuyển sàn
+629,STJ,VN000000STJ7,Cổ phiếu CTCP Đầu tư Phát triển Vận tải Vĩnh Phú,UpCOM,Đại chúng chưa niêm yết,28/03/2013,STJ: Thông báo chuyển sàn
+630,YBC,VN000000YBC8,Cổ phiếu Công ty Cổ phần Xi măng và khoáng sản Yên Bái,UpCOM,Đại chúng chưa niêm yết,02/06/2014,YBC: Thông báo chuyển sàn
+631,PNT,VN000000PNT5,Cổ phiếu CTCP Kỹ thuật Xây dựng Phú Nhuận,UpCOM,Đại chúng chưa niêm yết,26/03/2013,PNT: Thông báo chuyển sàn
+632,ILC,VN000000ILC0,Cổ phiếu CTCP Hợp tác Lao động với nước ngoài,HNX,Đại chúng chưa niêm yết,02/06/2014,ILC: Thông báo chuyển sàn
+633,HQM,VN000000HQM0,Cổ phiếu CTCP TV-TM-DV Địa ốc Hoàng Quân Mê Kông,HOSE,Đại chúng chưa niêm yết,13/03/2013,HQM: Thông báo chuyển sàn
+634,S96,VN000000S966,Cổ phiếu CTCP Sông Đà 9.06,HNX,Đại chúng chưa niêm yết,04/06/2014,S96: Thông báo chuyển sàn
+635,QCC,VN000000QCC2,Cổ phiếu Công ty Cổ phần Đầu tư Xây dựng và Phát triển hạ tầng Viễn thông,Đại chúng chưa niêm yết,UpCOM,05/06/2014,QCC: Thông báo chuyển sàn
+636,CAT,VN000000CAT0,Cổ phiếu CTCP Thuỷ sản Cà Mau,UpCOM,Đại chúng chưa niêm yết,08/03/2013,CAT: Thông báo chuyển sàn
+637,CKI,VN000000CKI2,Cổ phiếu CTCP Cơ khí Ngành In,UpCOM,Đại chúng chưa niêm yết,08/03/2013,CKI: Thông báo chuyển sàn
+638,SDB,VN000000SDB8,Cổ phiếu CTCP Sông Đà 207,HNX,Đại chúng chưa niêm yết,09/06/2014,SDB: Thông báo chuyển sàn
+639,VFC,VN000000VFC5,Cổ Phiếu CTCP VINAFCO,HOSE,UpCOM,05/02/2013,VFC: Thông báo chuyển sàn
+640,PSG,VN000000PSG1,Cổ phiếu Công ty cổ phần Đầu tư và Xây lắp Dầu khí Sài Gòn,HNX,Đại chúng chưa niêm yết,09/06/2014,PSG: Thông báo chuyển sàn
+641,BHP,VN000000BHP5,Cổ phiếu Công ty cổ phần Bia Hà Nội - Hải Phòng,HNX,UpCOM,18/01/2013,BHP: Thông báo chuyển sàn
+642,VHH,VN000000VHH0,Cổ phiếu Công ty cổ phần Đầu tư Kinh doanh nhà Thành Đạt,Đại chúng chưa niêm yết,UpCOM,24/06/2014,VHH: Thông báo chuyển sàn
+643,YBC,VN000000YBC8,Cổ phiếu Công ty Cổ phần Xi măng và khoáng sản Yên Bái,Đại chúng chưa niêm yết,UpCOM,24/06/2014,YBC: Thông báo chuyển sàn
+644,MIC,VN000000MIC8,Cổ phiếu CTCP Kỹ nghệ Khoáng sản Quảng Nam,HNX,Đại chúng chưa niêm yết,26/06/2014,MIC: Thông báo chuyển sàn
+645,PXM,VN000000PXM9,Cổ phiếu Công ty cổ phần Xây lắp Dầu khí Miền Trung,Đại chúng chưa niêm yết,UpCOM,30/06/2014,PXM: Thông báo chuyển sàn
+646,SDB,VN000000SDB8,Cổ phiếu CTCP Sông Đà 207,Đại chúng chưa niêm yết,UpCOM,02/07/2014,SDB: Thông báo chuyển sàn
+647,NSN,VN000000NSN2,Cổ phiếu Công ty Cổ phần Xây dựng 565,HNX,Đại chúng chưa niêm yết,11/07/2014,NSN: Thông báo chuyển sàn
+648,MWG,VN000000MWG0,Cổ phiếu CTCP Đầu tư Thế giới Di động,Đại chúng chưa niêm yết,HOSE,11/07/2014,MWG: Thông báo chuyển sàn
+649,INC,VN000000INC6,Cổ phiếu CTCP Tư vấn đầu tư IDICO,UpCOM,HNX,08/07/2011,INC: Thông báo chuyển sàn
+650,MAS,VN000000MAS1,Cổ phiếu Công ty cổ phần Dịch vụ Hàng không Sân bay Đà Nẵng,UpCOM,HNX,14/07/2014,MAS: Thông báo chuyển sàn
+651,SHP,VN000000SHP9,Cổ phiếu Công ty cổ phần Thủy điện miền Nam,HNX,HOSE,18/07/2014,SHP: Thông báo chuyển sàn
+652,SHP,VN000000SHP9,Cổ phiếu Công ty cổ phần Thủy điện miền Nam,UpCOM,HNX,18/07/2014,SHP: Thông báo chuyển sàn
+653,MAX,VN000000MAX1,Cổ phiếu Công ty cổ phần Khai Khoáng và Cơ khí Hữu Nghị Vĩnh Sinh,UpCOM,HNX,21/06/2011,MAX: Thông báo chuyển sàn
+654,NSP,VN000000NSP7,Cổ phiếu Công ty Cổ phần Nhựa Sam Phú,UpCOM,Đại chúng chưa niêm yết,23/07/2014,NSP: Thông báo chuyển sàn
+655,MNC,VN000000MNC8,Cổ phiếu Công ty Cổ phần Mai Linh Miền Trung,UpCOM,HNX,15/12/2010,MNC: Thông báo chuyển sàn
+656,SCC,VN000000SCC8,Cổ phiếu Công ty cổ phần Đầu tư thương mại Hưng Long tỉnh Hòa Bình,Đại chúng chưa niêm yết,UpCOM,23/07/2014,SCC: Thông báo chuyển sàn
+657,PAN,VN000000PAN5,Cổ phiếu Công ty cổ phần Tập đoàn PAN,HNX,HOSE,14/12/2010,PAN: Thông báo chuyển sàn
+658,GGG,VN000000GGG5,Cổ phiếu Công ty cổ phần Ô tô Giải Phóng,Đại chúng chưa niêm yết,UpCOM,08/08/2014,GGG: Thông báo chuyển sàn
+659,KMT,VN000000KMT8,Cổ phiếu Công ty cổ phần Kim Khí Miền Trung,UpCOM,HNX,14/12/2010,KMT: Thông báo chuyển sàn
+660,S96,VN000000S966,Cổ phiếu CTCP Sông Đà 9.06,Đại chúng chưa niêm yết,UpCOM,20/08/2014,S96: Thông báo chuyển sàn
+661,HAT,VN000000HAT9,Cổ phiếu Công ty cổ phần Thương mại Bia hà Nội,UpCOM,HNX,28/10/2010,HAT: Thông báo chuyển sàn
+662,GCC,VN000000GCC3,Cổ phiếu Công ty cổ phần Văn hóa Tổng hợp Bến Thành,HNX,Đại chúng chưa niêm yết,11/09/2014,GCC: Thông báo chuyển sàn
+663,API,VN000000API5,Cổ phiếu Công ty cổ phần Đầu tư Châu á - Thái Bình Dương,UpCOM,HNX,10/09/2010,API: thông báo chuyển sàn
+664,CDC,VN000000CDC0,Cổ phiếu CTCP Chương Dương,HNX,HOSE,10/09/2010,CDC: Thông báo chuyển sàn
+665,SDJ,VN000000SDJ1,Cổ phiếu Công ty Cổ phần Sông Đà 25,Đại chúng chưa niêm yết,UpCOM,24/09/2014,SDJ: Thông báo chuyển sàn
+666,MMC,VN000000MMC0,cổ phiếu Công ty Cổ phần Khoáng sản Mangan,Đại chúng chưa niêm yết,UpCOM,24/09/2014,MMC: Thông báo chuyển sàn
+667,HAT,VN000000HAT9,Cổ phiếu Công ty cổ phần Thương mại Bia hà Nội,HNX,UpCOM,10/09/2010,HAT: Thông báo chuyển sàn
+668,DAS,VN000000DAS0,Cổ phiếu Công ty Cổ phần Máy - Thiết bị Dầu khí Đà Nẵng,Đại chúng chưa niêm yết,UpCOM,24/09/2014,DAS: Thông báo chuyển sàn
+669,PVA,VN000000PVA8,Cổ phiếu Công ty cổ phần Tổng công ty Xây lắp Dầu khí Nghệ An,Đại chúng chưa niêm yết,UpCOM,30/09/2014,PVA: Thông báo chuyển sàn
+670,PRO,VN000000PRO7,Cổ phiếu Công ty cổ phần Procimex Việt Nam,Đại chúng chưa niêm yết,UpCOM,09/10/2014,PRO: Thông báo chuyển sàn
+671,DC2,VN000000DC23,Cổ phiếu CTCP Đầu tư phát triển- Xây dựng (DIC) Số 2,UpCOM,HNX,01/07/2010,DC2: Thông báo chuyển sàn
+672,SNC,VN000000SNC5,Cổ phiếu CTCP XNK Thuỷ sản Năm Căn,Đại chúng chưa niêm yết,UpCOM,22/10/2014,SNC: Thông báo chuyển sàn
+673,CMI,VN000000CMI8,Cổ phiếu Công ty cổ phần CMISTONE Việt Nam,UpCOM,HNX,22/06/2010,CMI: Thông báo chuyển sàn
+674,KSG,VN000000KSG2,Cổ phiếu Công ty cổ phần Khoáng sản và Vật liệu Xây dựng Gia Lai,HNX,Đại chúng chưa niêm yết,04/11/2014,KSG: Thông báo chuyển sàn
+675,VRG,VN000000VRG1,Cổ phiếu Công ty cổ phần Phát triển Đô thị và Khu công nghiệp Cao su Việt Nam,Đại chúng chưa niêm yết,UpCOM,06/11/2014,VRG: Thông báo chuyển sàn
+676,HDO,VN000000HDO4,Cổ phiếu CTCP Hưng Đạo Container,UpCOM,HNX,16/06/2010,HDO: Thông báo chuyển sàn
+677,AMD,VN000000AMD3,Cổ phiếu Công ty cổ phần Đầu tư và Khoáng sản FLC STONE,HNX,UpCOM,10/11/2014,AMD: Thông báo chuyển sàn
+678,S27,VN000000S271,Cổ phiếu Công ty cổ phần Sông Đà 27,Đại chúng chưa niêm yết,UpCOM,26/11/2014,S27: Thông báo chuyển sàn
+679,VDS,VN000000VDS6,Cổ phiếu CTCP Chứng khoán Rồng việt,UpCOM,HNX,24/05/2010,VDS: Thông báo chuyển sàn
+680,MIC,VN000000MIC8,Cổ phiếu CTCP Kỹ nghệ Khoáng sản Quảng Nam,Đại chúng chưa niêm yết,UpCOM,09/01/2015,"MIC: Chốt số liệu đăng ký, lưu ký, bù trừ và thanh toán đối với chứng khoán chuyển sàn giao dịch từ DCCNY sang UPCOM"
+681,ALP,VN000000ALP9,Cổ phiếu Công ty cổ phần Đầu tư Alphanam,HOSE,Đại chúng chưa niêm yết,07/01/2015,"ALP: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu ALP từ thị trường niêm yết trên Sở GDCK Tp. Hồ Chí Minh sang thị trường Đại chúng chưa niêm yết"
+682,DDM,VN000000DDM7,Cổ phiếu công ty cổ phần Hàng Hải Đông Đô,Đại chúng chưa niêm yết,UpCOM,04/12/2014,"DDM: Chuyển dữ liệu đăng ký, lưu ký cổ phiếu từ thị trường ĐCCNY sang thị trường đăng ký giao dịch (Upcom) trên SGDCK Hà Nội"
+683,HTB,VN000000HTB7,HTB - CTCP Xây dựng Huy Thắng,HNX,Đại chúng chưa niêm yết,11/07/2014,HTB: Thông báo báo chuyển sàn
+684,NVC,VN000000NVC9,Cỏ phiếu Công ty Cổ phần Nam Vang,HNX,Đại chúng chưa niêm yết,29/05/2014,NVC: Thông báo báo chuyển sàn
+685,VKP,VN000000VKP7,Cổ phiếu Công ty cổ phần Nhựa Tân Hoá,Đại chúng chưa niêm yết,UpCOM,31/10/2013,VKP: Thông báo báo chuyển sàn
+686,V11,VN000000V119,Cổ phiếu CTCP Xây dựng Số 11,Đại chúng chưa niêm yết,UpCOM,16/01/2013,V11: Thông báo báo chuyển sàn
+687,SDS,VN000000SDS2,Cổ phiếu Công ty cổ phần Xây lắp và Đầu tư Sông Đà,HNX,Đại chúng chưa niêm yết,15/11/2012,SDS:Thông báo chốt số dư chuyển sàn
+688,C32,VN000000C325,Cổ phiếu Công ty Cổ phần CIC39,HOSE,HOSE,28/11/2012,C32:Thông bao chốt số dư chuyển sàn
+689,NBS,VN000000NBS7,Cổ phiếu CTCP Bến xe Nghệ An,UpCOM,UpCOM,31/08/2012,NBS:Đăng ký giao dịch trên UPCoM
+690,MCV,VN000000MCV1,Cổ phiếu Công ty cổ phần Cavico Việt Nam khai thác mỏ và xây dựng,UpCOM,Đại chúng chưa niêm yết,19/07/2012,"MCV:Theo dõi số liệu đăng ký, lưu ký đối với chứng khoán hủy niêm yết"
+691,MKP,VN000000MKP6,Cổ phiếu CTCP Hóa - Dược phẩm Mekophar,Đại chúng chưa niêm yết,Đại chúng chưa niêm yết,16/07/2012,MKP:Chuyển sàn giao dịch
+692,VPC,VN000000VPC4,Cổ phiếu Công ty cổ phần Đầu tư và Phát triển Năng lượng Việt Nam,HNX,HNX,15/06/2012,"VPC:Chốt số liệu đăng ký, lưu ký, bù trừ và thanh toán để chuyển sàn giao dịch từ Upcom sang HNX mã chứng khoán VPC"
+693,CAD,VN000000CAD4,Cổ phiếu CTCP chế biến và XNK thuỷ sản Cadovimex,Đại chúng chưa niêm yết,UpCOM,06/06/2012,CAD:Thông báo chốt sô dư chuyển sàn
+694,VSP,VN000000VSP0,Cổ Phiếu CTCP Vận tải biển và bất động sản Việt Hải,HNX,UpCOM,05/06/2012,VSP:Thông báo chôt số dư chuyển sàn
+695,SVI,VN000000SVI5,Cổ phiếu CTCP Bao bì Biên Hoà,HNX,HOSE,01/03/2012,SVI:Chuyển sàn
+696,ITD,VN000000ITD1,Cổ phiếu CTCP Công nghệ Tiên Phong,UpCOM,HOSE,19/12/2011,ITD:Thông báo chốt số dư chuyển sàn
+697,PJS,VN000000PJS5,Cổ phiếu Công ty cổ phần Cấp nước Phú Hoà Tân,HOSE,UpCOM,02/12/2011,PJS:Thông báo chốt số dư chuyển sàn
+698,VTA,VN000000VTA0,Cổ phiếu CTCP Vitaly,HNX,UpCOM,13/10/2011,VTA:Thông báo chốt số dư chuyển sàn
+699,PCT,VN000000PCT8,Cổ phiếu CTCP Vận tải Khí và Hóa chất Việt Nam,UpCOM,HNX,07/09/2011,PCT:Chốt số dư chuyển sàn
